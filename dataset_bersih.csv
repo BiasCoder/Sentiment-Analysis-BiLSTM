@@ -1,0 +1,1455 @@
+,text,Sentiment,Target_type
+0,['vaksin'],positif,1
+1,"['kenal', 'kebal', 'vaksin', 'bukti', 'manusia', 'juang', 'jaga', 'eksistensi', 'dunia', 'vaksin']",positif,1
+2,"['sistem', 'data', 'dukung', 'vaksinasi', 'indonesia', 'vaksin', 'covid']",positif,1
+3,"['terima', 'vaksin', 'covid', 'vaksinhalal', 'vaksinsiappropinsi']",positif,1
+4,"['beda', 'vaksin', 'china', 'sinovac', 'sinopharm', 'merek', 'vaksin', 'perusahaanfarmasi']",positif,1
+5,"['obat', 'selamat', 'nyawa', 'pasien', 'temu', 'infus', 'virus', 'wabah']",positif,1
+6,"['vaksin', 'buat', 'tiongkok', 'orang', 'tua', 'suntik', 'nonton', 'video']",positif,1
+7,"['kabar', 'duka', 'dokter', 'pribadi', 'paus', 'fransiskus', 'tinggal', 'akibat', 'vatikan', 'pausfransiskus']",positif,1
+8,"['masker', 'bekas', 'rawan', 'tular', 'virus', 'pakai', 'masker', 'utk', 'cegah', 'maksimal', 'tular']",positif,1
+9,"['top', 'news', 'koran', 'rakyat', 'merdeka', 'jelang', 'imlek', 'china', 'target', 'juta', 'warga', 'vaksin', 'china']",positif,1
+10,"['lawan', 'covid', 'solidaritas', 'stigma', 'covid', 'viruscorona']",positif,1
+11,"['vaksinasi', 'jaga', 'protokol', 'sehat', 'covid']",positif,1
+12,"['sampurasun', 'wargi', 'jabar', '', 'yuk', 'wargi', 'lihat', 'daftar', 'sakit', 'terima', 'vaksin']",positif,1
+13,"['aceh', 'salah', 'provinsi', 'terap', 'syariat', 'islam', 'warga', 'mereka']",positif,1
+14,"['mari', 'siap', 'vaksinasi', 'vaksin', 'laksana', 'protokol', 'sehat', 'pakai']",positif,1
+15,"['vaksinya', 'halal', 'yaa', 'vaksin', 'pandemi', 'indonesia']",positif,1
+16,"['orang', 'suntik', 'vaksin', 'pandemi', 'indonesia']",positif,1
+17,"['cegah', 'vaksin', 'pandemi', 'indonesia']",positif,1
+18,"['status', 'halal', 'yaa', 'vaksin', 'pandemi', 'indonesia']",positif,1
+19,"['harap', 'muncul', 'gelombang', 'pandemi', 'tiongkok', 'gratis', 'vaksin', 'warga']",positif,1
+20,"['mui', 'pusat', 'tetap', 'vaksin', 'produksi', 'sinovac', 'halal', 'suci', 'merahputihcom']",positif,1
+21,"['percaya', 'vaksin', 'pandemi', 'hotline', 'vaksin', 'covid', 'indonesiamaju']",positif,1
+22,"['ayo', 'dukung', 'hidup', 'sehat']",positif,1
+23,"['majelis', 'ulama', 'endonesia', 'psstikan', 'vaksin', 'dr', 'sinovac', 'halal']",positif,1
+24,"['yuks', 'suport', 'hidup', 'had', 'tnpa', 'dngan', 'mlkukn']",positif,1
+25,"['yuks', 'dkung', 'prgrm', 'vaksinasi', 'spy', 'wrga', 'sumut']",positif,1
+26,"['majelis', 'ulama', 'endonesia', 'psstikan', 'vaksin', 'dr', 'sinovac', 'halal', 'dn']",positif,1
+27,"['ayok', 'support', 'hidup', 'damang', 'tampa', 'dgan', 'melakukn']",positif,1
+28,"['nyok', 'dkng', 'prgrm', 'vaksinasi', 'spya', 'wrga', 'sumut', 'bbs']",positif,1
+29,"['mari', 'gendong', 'tata', 'olah', 'vaksinasi', 'biar', 'kelompok', 'sumut', 'sukarela']",positif,1
+30,"['mari', 'bawa', 'jiwa', 'bugar', 'minus', 'ada']",positif,1
+31,"['ayok', 'dkng', 'hidup', 'had', 'tampa', 'dgn', 'mlkukn']",positif,1
+32,"['ayoo', 'ndukung', 'prgrm', 'vaksinasi', 'spya', 'wargi', 'sumut', 'bbs']",positif,1
+33,"['nyok', 'suport', 'hdup', 'shat', 'tampa', 'dngan', 'melakukn']",positif,1
+34,"['ayoo', 'ndukung', 'prgrm', 'vaksinasi', 'spy', 'wrga', 'sumut']",positif,1
+35,"['efek', 'samping', 'vaksin', 'perintah', 'tanggung', 'biaya', 'awat', 'vaksinasicovid']",positif,1
+36,"['tahu', 'sohib', 'komisi', 'fatwa', 'muipusat', 'tetap', 'vaksin', 'covid', 'halal', 'suci']",positif,1
+37,"['desember', 'badan', 'awas', 'obat', 'eropa', 'ema', 'komisi', 'eropa', 'izin', 'guna', 'vaksin']",positif,1
+38,"['bpom', 'izin', 'vaksin', 'sinovac', 'dgn', 'efikasi']",positif,1
+39,"['info', 'pekan', 'tenaga', 'sehat', 'jabar', 'suntik', 'vaksin', 'covid', 'cek']",positif,1
+40,"['mui', 'nyata', 'vaksin', 'covid', 'sinovac', 'halal', 'vaksin', 'sinovachalal', 'vaks']",positif,1
+41,"['mui', 'vaksin', 'covid', 'sinovac', 'suci', 'halal', 'vaksin', 'sinovachalal', 'vaks']",positif,1
+42,"['bpom', 'terbit', 'izin', 'guna', 'darurat', 'vaksin', 'covid', 'buat', 'sinovac', 'vaksin', 'sinovachalal']",positif,1
+43,"['lusa', 'vaksinasi', 'vaksin', 'sinovachalal', 'vaksncovid', 'vaksingratisutkrakyat']",positif,1
+44,"['vaksin', 'covid', 'produksi', 'sinovac', 'suci', 'halal', 'vaksin', 'sinovachalal', 'vaks']",positif,1
+45,"['badan', 'pom', 'resmi', 'keluar', 'emergency', 'use', 'authorization', 'tuju', 'guna']",positif,1
+46,"['jelang', 'vaksinasi', 'januari', 'izin', 'guna', 'darurat', 'vaksin']",positif,1
+47,"['bpom', 'bpom', 'ri', 'terbit', 'eua', 'komisi', 'fatwa', 'mui', 'vaksin', 'sinovac', 'halal']",positif,1
+48,"['perintah', 'upaya', 'keras', 'antisipasi', 'virus', 'corona', 'varian']",positif,1
+49,"['bpom', 'keluar', 'izin', 'edar', 'vaksin', 'sinovac', 'vaksin', 'sinovac']",positif,1
+50,"['badan', 'awas', 'obat', 'makan', 'bpom', 'keluar', 'izin', 'guna', 'darurat', 'vaksin', 'emergency']",positif,1
+51,"['majelis', 'ulama', 'indonesia', 'mui', 'keluar', 'fatwa', 'halal', 'vaksin', 'produksi', 'sinovac', 'tiongkok']",positif,1
+52,"['bpom', 'resmi', 'keluar', 'izin', 'darurat', 'emergency', 'user', 'authorization', 'uea', 'vaksin']",positif,1
+53,"['izin', 'darurat', 'bpom', 'vaksin', 'sinovac', 'suntik', 'jokowi', 'januari', 'vaksin']",positif,1
+54,"['encusss', 'nganti', 'ping', 'vaksindatang', 'coronailang', 'alumnismapati']",positif,1
+55,"['vaksinasi', 'pandemi', 'herd', 'immunity', 'rapidantibodi', 'rapidantigen', 'swabpcr']",positif,1
+56,"['ketua', 'ikat', 'dokter', 'indonesia', 'idi', 'daeng', 'faqih', 'imbau', 'masyarakat', 'henti', 'polemik', 'putar']",positif,1
+57,"['badan', 'awas', 'obat', 'makan', 'bpom', 'tgl', 'jan', 'tuju', 'guna', 'dlm']",positif,1
+58,"['menkes', 'lansia', 'terima', 'vaksin', 'gavi', 'vaksin', 'lansia']",positif,1
+59,"['dukung', 'lambat', 'pandemi', 'vaksin', 'covid', 'viruscorona']",positif,1
+60,"['vaksin', 'lolos', 'uji', 'klinis', 'vaksin', 'pandemi', 'indonesia']",positif,1
+61,"['aman', 'vaksin', 'pandemi', 'indonesia']",positif,1
+62,"['bpom', 'izin', 'guna', 'vaksin', 'vaksin', 'pandemi', 'indonesia']",positif,1
+63,"['lolos', 'uji', 'klinis', 'ya', 'vaksin', 'pandemi', 'indonesia']",positif,1
+64,"['bpom', 'vaksin', 'sinovac', 'aman', 'mui', 'resmi', 'keluar', 'fatwa', 'suci', 'halal', 'batam']",positif,1
+65,"['eua', 'resmi', 'keluar', 'bpom', 'mui', 'nyata', 'vaksin', 'buat', 'tiongkok', 'sinovac', 'halal', 'mui']",positif,1
+66,"['sedia', 'presiden', 'yg', 'terima', 'vaksin']",positif,1
+67,"['bpom', 'tuju', 'vaksin', 'produksi', 'sinovac', 'kemenkes']",positif,1
+68,"['kabupaten', 'probolinggo', 'laksana', 'vaksinasi', 'corona']",positif,1
+69,"['kepala', 'badan', 'pom', 'vaksin', 'coronavac', 'uji', 'klinis', 'indonesia', 'penuh']",positif,1
+70,"['suntik', 'vaksinchina', 'ad', 'si']",negatif,0
+71,['vaksin'],positif,1
+72,"['ayooo', 'sukses']",positif,1
+73,"['vaksin', 'vaksin']",positif,1
+74,"['polres', 'merauke', 'dosis', 'vaksin', '']",positif,1
+75,"['idi', 'stop', 'polemik', 'nakes', 'takut', 'vaksin', 'via', 'harianbatampos']",positif,1
+76,"['eforia', 'vaksin', 'herd', 'immunity', 'pikir', 'kritis', 'jernih', 'jalan']",positif,1
+77,"['daftar', 'efikasi', 'vaksin', 'sinovac', 'unggul', 'astrazeneca', 'dosis', 'normal', 'vaksin']",positif,1
+78,"['halal', 'bpom', 'entas', 'polemik', 'vaksinasi', 'herd', 'immunity']",positif,1
+79,"['alhamdulillah', 'fatwa', 'halal', 'vaksin', 'sinovac', 'mui', 'final', 'otoritas', 'bpom', 'bpom', 'ri']",positif,1
+80,"['mari', 'dukung', 'program', 'vaksinasi', 'indonesia', 'bebas', 'pandemi', 'vaksin']",positif,1
+81,"['info', 'boker', 'pagi', 'tani', 'kopi', 'hitam', 'buat', 'que', 'berita', 'wajib', 'vaksin', 'hasrat', 'boker', 'ku']",negatif,0
+82,"['kapolres', 'kampar', 'suntik', 'vaksin', 'riaupos', 'kapolres', 'suntik', 'vaksin']",positif,1
+83,"['heran', 'pakai', 'sinovac', 'mahal', 'iya', 'akurasi', 'rendah', 'iya', 'uji', 'selesai', 'iya']",negatif,0
+84,"['nih', 'denger', 'tolakdivaksinsinovac']",negatif,0
+85,"['abis', 'baca', 'thread', 'vaksin', 'sinovac', 'dr', 'efikasi', 'efek', 'kayak', 'hasil', 'aja', 'vaksin']",negatif,0
+86,"['jelang', 'vaksin', 'keinget', 'jaman', 'sekolah', 'lari', 'suntik', 'tpi', 'mgkin', 'lari', 'takut', 'efek']",negatif,0
+87,"['menag', 'umat', 'ragu', 'program', 'vaksin', 'kunjung', 'covid']",positif,1
+88,"['siapp', 'vaksin']",positif,1
+89,"['warga', 'indonesia', 'wajib', 'program', 'vaksinasi', 'sinovac', 'perintah']",positif,1
+90,"['menag', 'vaksin', 'sinovac', 'halal', 'kandung', 'tubuh', 'manusia', 'babi', 'menag']",positif,1
+91,"['kepala', 'badan', 'awas', 'obat', 'makan', 'bpom', 'vaksin', 'sinovac', 'aman', 'khasiat']",positif,1
+92,"['kepala', 'badan', 'awas', 'obat', 'makan', 'bpom', 'badan', 'pom', 'emergency']",positif,1
+93,"['sah', 'bpom', 'izin', 'vaksin']",positif,1
+94,"['kpala', 'badan', 'awas', 'obat', 'makan', 'bpom', 'vaksin', 'sinovac', 'aman', 'khasiat']",positif,1
+95,"['syah', 'bpom', 'ijin', 'vaksin']",positif,1
+96,"['kepala', 'awak', 'pelihara', 'remedi', 'makan', 'bpom', 'vaksin', 'sinovac', 'aman']",positif,1
+97,"['kpala', 'badan', 'awas', 'obat', 'dn', 'makan', 'bpom', 'vaksin', 'sinovac', 'aman']",positif,1
+98,"['kepala', 'yayasan', 'periksa', 'remedi', 'makan', 'bpom', 'vaksin', 'sinovac']",positif,1
+99,"['kepala', 'kelompok', 'inspeksi', 'tawar', 'makan', 'bpom', 'vaksin', 'sinovac', 'aman']",positif,1
+100,"['kepala', 'satu', 'lindung', 'tawar', 'makan', 'bpom', 'vaksin', 'sinovac']",positif,1
+101,"['vaksin', 'aman', 'halal', 'menteri', 'agama', 'ragu', 'vaksinasi']",positif,1
+102,"['halakhitatba', 'vaksin', 'oke']",positif,1
+103,"['alas', 'ribka', 'tolak', 'pt', 'bio', 'farma', 'uji', 'klinis', 'tahap', 'ketigavaksin']",negatif,0
+104,"['ribka', 'pdip', 'ogah', 'suntik', 'vaksin', 'paksa', 'langgar', 'ham', 'vaksin', 'vaksinasi']",negatif,0
+105,"['menteri', 'agama', 'yaqut', 'cholil', 'qoumas', 'ajak', 'umat', 'agama', 'ikut', 'program']",positif,1
+106,"['bpom', 'aman', 'insyaallah', 'vaksin', 'aman', 'muhammadiyah', 'tvmuhammadiyah', 'vaksinasi']",positif,1
+107,"['sobatkom', 'menteri', 'sehat', 'kemkes', 'terbit', 'tunjuk', 'teknis', 'juknis', 'laksana']",positif,1
+108,"['bupati', 'tanggamus', 'dewi', 'handajani', 'kesiap', 'terima', 'vaksin', 'sinovac', 'vaksinasi']",positif,1
+109,"['asn', 'badan', 'pom', 'vaksinasi', 'ayo', 'sukses', 'vaksinasi', 'demi', 'covid']",positif,1
+110,"['polri', 'vaksinasi', 'lawan', 'demi', 'sinergi']",positif,1
+111,"['vaksin', 'protokol', 'sehat', 'kendor', 'lupa']",positif,1
+112,"['kalo', 'bagus', 'kasih']",negatif,0
+113,"['menteri', 'agama', 'ragu', 'ikut', 'vaksinasi', 'yg', 'canang', 'perintah']",positif,1
+114,"['menag', 'umat', 'agama', 'ragu']",positif,1
+115,"['gamau', 'vaksin', 'penjara', 'dasar', 'atur', 'sampe', 'badan', 'orang']",negatif,0
+116,"['masa', 'mana', 'manusia', 'rasa', 'galau', 'hewan', 'ternak', 'unggas']",negatif,0
+117,"['vaksin', 'yg', 'manjur', 'covid']",positif,1
+118,"['kandung', 'babi', 'menteri', 'agama', 'yaqut', 'cholil', 'qoumas', 'imbau', 'umat', 'islam', 'ragu']",positif,1
+119,['vaksin'],positif,1
+120,"['jarang', 'fraksi', 'pks', 'apresiasi', 'putus', 'presiden', 'jokowi', 'vaksin', 'vaksinasi']",positif,1
+121,"['vaksin', 'aman', 'halal', 'indonesia', 'vaksin']",positif,1
+122,"['dprk', 'lhokseumawe', 'perintah', 'tingkat', 'sosialisasi']",positif,1
+123,"['gak', 'vaksin', 'denda', 'duit', 'kudunye', 'balik', 'vaksin', 'kasih']",negatif,0
+124,"['vaksin', 'vaksin', 'siapvaksincovid']",positif,1
+125,"['vaksinasi', 'indonesia', 'bebas', 'pandemi', 'patuh', 'vaksincovid']",positif,1
+126,"['pelopor', 'vaccine', 'vaksin', 'vaksinsinovac']",positif,1
+127,"['vaksin', 'bisnis', 'solusi', 'pandemi', 'suaraislamid', 'vaksin', 'bisnis']",negatif,0
+128,"['tolak', 'ikut', 'jokowi', 'suntik', 'vaksin', 'ribka', 'pdip', 'mending', 'gue', 'bayar', 'denda']",negatif,0
+129,"['januari', 'moga', 'jokowi', 'jalan', 'vaksin', 'moga']",positif,1
+130,"['negara', 'bisnis', 'rakyat']",negatif,0
+131,"['vaksin', 'vaksinkitadatanglagi', 'vaksinyginginhidupaja']",positif,1
+132,"['perintah', 'berani', 'jamin', 'vaksin', 'aman', 'cakap', 'pikir']",positif,1
+133,"['masyarakat', 'ragu', 'halal', 'vaksin', 'sinovac', 'cakap', 'pikir']",positif,1
+134,"['vaksin', 'covid', 'aman', 'halal', 'suci', 'vaksin', 'ardhianzah', 'imam']",positif,1
+135,"['vakin', 'nyata', 'aman']",positif,1
+136,"['vaksin', 'corona']",positif,1
+137,"['vaksin', 'sinovac', 'halal', 'suci', 'mudah', 'provokasi', 'isu', 'negatif', 'vaksin']",positif,1
+138,"['moga', 'jalan', 'sesuai', 'rencana', 'vaksin', 'pandemi', 'indonesia', 'virus']",positif,1
+139,"['moga', 'selesai', 'pandemi', 'vaksin', 'pandemi', 'indonesia', 'virus']",positif,1
+140,"['oma', 'opa', 'suntik', 'vaksin', 'pfizer', 'astrazeneca', 'moga', 'pandemi', 'lekas']",positif,1
+141,"['kasi', 'narapidana', 'cape', 'cape', 'kriminal', 'nolak', 'vaksin', 'doang', 'syarat', 'masuk', 'penjara']",negatif,0
+142,"['vaksin', 'covid', 'sinovac', 'nyata', 'halal', 'suci', 'vaksin']",positif,1
+143,"['fatwa', 'mui', 'vaksin', 'covid', 'halal', 'sebar', 'beritakitacoid']",positif,1
+144,"['langsung', 'percaya', 'baca', 'berita', 'ya', 'cek', 'sumber', '']",positif,1
+145,"['mendagri', 'ajak', 'masyarakat', 'dukung', 'bijak', 'ppkm', 'putus', 'tular', 'covid']",positif,1
+146,"['lucu', 'nih', 'cebong', 'senang', 'kadrun', 'anti', 'vaksin', 'punah', 'jd', 'bebas']",negatif,0
+147,"['menteri', 'agama', 'vaksinasi', 'jalan', 'perintah', 'agama']",positif,1
+148,"['ribka', 'tjiptaning', 'tolak', 'suntik', 'vaksin', 'pilih', 'bayar', 'denda', 'news']",negatif,0
+149,"['alhamdulilah', 'hirobbal', 'allamin', 'haji', 'jokowi', 'vaksinasi', 'siiap', 'vaksin', 'ikut']",positif,1
+150,"['alfino', 'defito', 'jokowi', 'bgt', 'vaksinasi', 'dukung']",positif,1
+151,"['wamenag', 'vaksin', 'ayo', 'vaksinasi']",positif,1
+152,"['salah', 'satu', 'dukung', 'program', 'perintah', 'vaksinasi']",positif,1
+153,"['alhamdulillah', 'jokowi', 'udah', 'vaksin', 'moga', 'tekan', 'laju', 'covid', 'aamiin']",positif,1
+154,"['vaksin', 'covid', 'sinovac', 'nyata', 'halal']",positif,1
+155,"['alhamdulillah', 'vaksin', 'udah', 'suntik', 'kali', 'optimis', 'patuh']",positif,1
+156,"['negara', 'bisnis', 'rakyat', 'ribka', 'tjiptaning', 'anggota', 'dpr', 'ri', 'fraksi', 'pdi']",negatif,0
+157,"['vaksin', 'catat', 'info', 'vaksin']",positif,1
+158,"['kabar', 'indonesia', 'presiden', 'ri', 'joko', 'widodo', 'resmi', 'orang', 'indonesia', 'terima']",positif,1
+159,"['aman', 'khasiat', 'halal', 'masyarakat', 'ragu', 'vaksin', 'keluar', 'bio', 'farma', 'biofarmaid']",positif,1
+160,"['ragu', 'deret', 'manfaat', 'vaksinasi']",positif,1
+161,"['bismillah', 'yg', 'nyuntik', 'tremor', 'gpp', 'nyuntik', 'presiden', 'aja', 'kadang', 'klw']",positif,1
+162,"['jokowi', 'alhamdulilah', 'hirobbal', 'allamin', 'vaksinasi', 'jokowidodo', 'sehat', 'njeh']",positif,1
+163,"['serius', 'nanya', 'vaksin', 'ngaruh', 'gak', 'sih']",negatif,0
+164,"['suksme', 'jokowi', '', 'sampun', 'contoh', '', 'admin', 'jokowi', 'wedakarna']",positif,1
+165,"['baik', 'jokowidivaksin']",positif,1
+166,"['vaksin', '', 'yuk', 'vaksin', 'yuk', '', 'vaksinuntuknegeri']",positif,1
+167,"['qeenbee', 'vaksinasi', 'yah']",positif,1
+168,"['idi', 'terbit', 'maklumat', 'dokter', 'vaksin']",positif,1
+169,"['percaya', 'jokowi', '', 'vaksinuntuknegeri', 'vaksinasidimulai', 'jokowi']",positif,1
+170,"['moga', 'hadir', 'vaksin', 'kabar', 'ya', 'sahabat', 'moga', 'bebas']",positif,1
+171,"['sherpa', 'nice', 'infoh', 'ayo', 'dukung', 'vaksin', 'utk']",positif,1
+172,"['polrestas', 'patuh', 'prokes', 'terima', 'vaksinasi', 'vaksinasi']",positif,1
+173,"['nyuks', 'lawan', 'vaksin', 'sinovac', 'sertifikat', 'halal']",positif,1
+174,"['makan', 'hoaks', 'vaksin', 'sinovac', 'sertifikat', 'halal']",positif,1
+175,"['mantul', 'vaksin', 'sinovac', 'sertifikat', 'halal', 'sukses', 'indonesia']",positif,1
+176,"['bantu', 'indonesia', 'lawan', 'siap', 'diri', 'program', 'vaksinasi']",positif,1
+177,"['menteri', 'agama', 'sertifikat', 'vaksin', 'sinovac']",positif,1
+178,"['ayo', 'dukung', 'vaksin', 'sinovac', 'udah', 'sertifikat', 'halal']",positif,1
+179,"['nruulll', 'guru', 'tpq', 'bonggbudiharto', 'siaappp', 'donk']",positif,1
+180,"['gak', 'percaya', 'kalo', 'percaya', 'gak', 'percaya', 'kalo', 'percaya', 'gak']",negatif,0
+181,"['panglima', 'had', 'prajurit', 'tni', 'sukses', 'vaksinasi', 'tjahjantohadi', 'tni', 'vaksin']",positif,1
+182,"['vaksin', 'bisnis']",negatif,0
+183,"['vaksin', 'aman', 'halal', 'vaksin', 'covid', 'coronavirus']",positif,1
+184,"['', 'wedi', 'vaksin', '', 'kenopo', '', 'yen', 'bar', 'vaksinasimelawanpandemi', 'mati', 'piye', '', 'rapopo', 'mas']",positif,1
+185,"['vaksin', 'vaksin', 'vaksinuntukkita', 'akusiapdivaksin']",positif,1
+186,"['inget', 'langsng', 'mudah', 'percaya', 'sunti', 'kepala', 'negara', 'bener', 'vaksin']",negatif,0
+187,"['kelas', 'raffi', 'ahmad', 'suntik', 'sinovac', 'lho', 'ragu', 'ayo', 'lindung', 'diri', 'orang']",positif,1
+188,"['moga', 'vaksin', 'manjur', 'ya', 'pen', 'neng', 'nih', 'ampe', 'pagi', 'vaksin', 'percaya', 'vaksin']",positif,1
+189,['aman'],positif,1
+190,"['menkes', 'vaksin', 'lindung', 'rakyat', 'indonesia', 'menkes']",positif,1
+191,"['bismillah', 'bismillahirrahmanirrahim', '', 'vaksinasi', 'vaksinasicovid', 'vaksinasidimulai']",positif,1
+192,"['bikin', 'bingung', 'deh', 'ah', 'perkara', 'vaksin']",negatif,0
+193,"['tuhh', 'mba', 'ning', 'nolak']",negatif,0
+194,"['akurasi', 'utk', 'tonton']",negatif,0
+195,"['ragu', 'vaksin']",positif,1
+196,"['masa', 'pandemi', 'hadir', 'vaksin', 'guna', 'lindung', 'ancam', 'serius']",positif,1
+197,"['sehat', 'jokowi', 'dukung', 'vaksin', 'vaksin', 'aman']",positif,1
+198,"['whatever', 'it', 'is', 'moga', 'aman', 'aja']",positif,1
+199,"['ayo', 'jatibeningers', 'lupa', 'vaksin', 'vaksin', 'vaksinasidimulai']",positif,1
+200,"['polri', 'vaksin', 'vaksincorona']",positif,1
+201,"['vaksin', '', 'kalo', 'jokowi', 'rela', 'lha', 'semangat', 'sehat', 'pulih']",positif,1
+202,"['gw', 'aja', 'ngga', 'tuju', 'vaksin', 'gak', 'vaksin', 'takut', 'jarum', 'suntik', 'vaksin']",positif,1
+203,"['proses', 'vaksin', 'sampe', 'eksekusi', 'serius', 'orang']",positif,1
+204,"['gue', 'ken', 'upaya', 'upaya', 'henti', 'pandemi']",positif,1
+205,"['tiga', 'gue', 'insyaallah', 'ga', 'takut', 'gue', 'ikhtiar', 'gue', 'laku', 'ikhtiar', 'wajib', 'sisa']",positif,1
+206,"['yuk', 'cepet', 'vaksin', 'biar', 'gue', 'mana', 'aman', 'nggak', 'takut', 'nularin', 'oranglain', '', 'vaksinuntukkita', 'vaksincovid']",positif,1
+207,"['yok', 'vaksin', 'biar', 'daya', 'tahan', 'tubuh', 'kuat', 'diphpin', 'kasih', 'harap', 'selingkuh', 'vaksinyovaksin']",positif,1
+208,"['bismillah', 'gasss', 'dukungsehatkanbangsa']",positif,1
+209,"['gaes', 'vaksinasi', 'massal', 'indonesia', 'tahap', 'halang', 'vaksinasi', 'proyeksi']",positif,1
+210,"['kadrun', 'bangkit', 'dr', 'kubur', 'kadrun', 'sumber']",negatif,0
+211,"['vaksin', 'covid', 'nyata', 'halal', 'mui', 'aman', 'badanpom', 'rabu', 'januari']",positif,1
+212,"['selamat', 'vaksin', 'moga', 'cepat', 'sembuh', 'ya', 'vaksinasidimulai']",positif,1
+213,"['tolak', 'vaksin', 'anggota', 'dpr', 'ribka', 'tjiptaning', 'langgar', 'ham', 'gak']",negatif,0
+214,"['ikhtiyar', 'sungguh', 'empati', 'vaksin']",positif,1
+215,"['insya', 'allah', 'bismillah', 'vaksin', 'covi']",positif,1
+216,"['arifinnkri', 'dukung', 'vaksinasi']",positif,1
+217,"['felly', 'vaksin', 'sinovac', 'aman', 'anggota', 'komisi', 'ix', 'dpr', 'tuju']",positif,1
+218,"['ragu', 'vaksinasi', 'imunisasi', 'yah', 'bpomri', 'vaksinasi', 'imunisasi', 'vaksinaman']",positif,1
+219,"['siap', 'lagu', 'baik', 'biar', 'ngga', 'tremor', 'pas', 'gilir']",positif,1
+220,"['kejaksaanri', 'dukung', 'program', 'vaksinasi', 'vaksinasi', 'kejaksaanri']",positif,1
+221,"['halahh', 'ngapain', 'pake', 'live', 'ttp', 'aja', 'yg', 'masyarakat', 'beda', 'kualitas', 'ama', 'yg']",negatif,0
+222,"['turut', 'vaksin', 'helm', 'sabuk', 'kam', 'manfaat', 'lindung', 'beda', 'vaksin']",positif,1
+223,"['pemkab', 'aceh', 'barat', 'pasti', 'imunisasi', 'vaksin', 'sinovac', 'covid', 'warga']",positif,1
+224,"['bijak', 'inggris', 'lambat', 'beri', 'dosis', 'corona', 'warga']",positif,1
+225,"['bismillah', 'indonesia', 'sehat', 'kiai', 'ahmad', 'ishomuddin', 'rais', 'syuriyah', 'pbnu', 'vaksin', 'istana', 'negara']",positif,1
+226,['mantap'],positif,1
+227,"['vaksin', 'sinovac', 'nyata', 'halal', 'aman', 'takut', 'ya', 'yuk']",positif,1
+228,"['dukung', 'negara']",positif,1
+229,"['minum', 'jamu', 'tradisional', 'sehat']",positif,1
+230,['hadir'],positif,1
+231,"['pasti', 'badan', 'fit', 'suntik', 'vaksin']",positif,1
+232,"['suntik', 'vaksin', 'gak', 'rep']",positif,1
+233,"['ayo', 'vaksin']",positif,1
+234,"['mari', 'dukung', 'negeri', 'cinta', 'bebas', 'pandemi']",positif,1
+235,"['patuh', 'protokol', 'sehat', 'moga', 'covid']",positif,1
+236,"['nya', 'tolak', 'vaksin', 'ni', 'buk', 'yg', 'hormat', 'gue', 'fobia', 'jarum', 'suntik', 'anjeeeng', 'gak', 'gue']",negatif,0
+237,"['vaksin', 'covid', 'aman', 'halal', 'fatwa', 'mui', 'no', 'produk', 'vaksin', 'covid', 'sinovac', 'life']",positif,1
+238,['vaksin'],positif,1
+239,"['koordinator', 'cinta', 'ajak', 'masyarakat', 'sukses', 'program', 'vaksinasi', 'covid']",positif,1
+240,"['yes', 'vaksin', 'suntik', 'moga', 'distribusi', 'yg']",positif,1
+241,"['presiden', 'jokowi', 'resmi', 'suntik', 'vaksin', 'corona']",positif,1
+242,[],positif,1
+243,"['masquh', 'insya', 'allah', 'dgn', 'pergi', 'musnah', 'si']",positif,1
+244,"['vaksinasi', 'covid', 'indonesia', 'vaksin', 'uji', 'teliti']",positif,1
+245,"['dokter', 'presiden', 'alhamdulillah', 'hasil', 'suntik', 'presiden']",positif,1
+246,"['pemkot', 'tangsel', 'salur', 'ribu', 'paket', 'vaksin', 'covid']",positif,1
+247,"['menkes', 'tum', 'idi', 'vaksin', 'sinovac', 'jokowi', 'pagi']",positif,1
+248,"['sahabat', 'mata', 'mari', 'sukses', 'indonesia', 'yg', 'tuju', 'lindung', 'kuat']",positif,1
+249,"['sanksi', 'penjara', 'bayar', 'denda', 'tolak', 'vaksin']",positif,1
+250,"['presiden', 'jokowi', 'resmi', 'vaksin']",positif,1
+251,"['vaksinasi', 'covid', 'bentuk', 'usaha', 'cegah', 'hal']",positif,1
+252,"['indonesia', 'maju', 'indonesia']",positif,1
+253,"['sinovac', 'geber', 'produksi', 'vaksin', 'corona', 'miliar']",positif,1
+254,"['selesai', 'pandemi', 'menteri', 'sandi', 'ajak', 'insan', 'pariwisata']",positif,1
+255,"['vaksinasi', 'covid', 'kemarin', 'fatwa', 'halal', 'mui', 'izin', 'pakai', 'darurat', 'keluar', 'badan']",positif,1
+256,"['juta', 'tenaga', 'sehat', 'vaksin', 'covid', 'tahap']",positif,1
+257,"['juta', 'warga', 'jakarta', 'vaksinasi', 'covid']",positif,1
+258,"['lindung', 'covid', 'takut', 'vaksin']",positif,1
+259,"['vaksinasi', 'covid', 'salah', 'upaya', 'putus', 'rantai', 'tular', 'covid', 'indonesia']",positif,1
+260,"['vaksinasi', 'covid']",positif,1
+261,"['vaksinasi', 'nasional', 'cegah', 'tular']",positif,1
+262,"['grab', 'usul', 'mitra']",positif,1
+263,"['legislator', 'pks', 'kecam', 'perintah', 'ancam', 'masyarakat', 'tolak']",negatif,0
+264,"['rois', 'syuriah', 'pbnu', 'takut', 'vaksin', 'halal']",positif,1
+265,"['insya', 'allah', 'sepakat', 'forkopimda']",positif,1
+266,"['program', 'vaksinasi', 'covid', 'aman', 'langsung', 'ahli', 'event', 'webinar']",positif,1
+267,['sertifikasi'],positif,1
+268,"['vaksinya', 'uji']",positif,1
+269,"['satu', 'lawan']",positif,1
+270,"['takut', 'vaksin']",positif,1
+271,"['vaksinasi', 'covid', 'riau']",positif,1
+272,"['program', 'vaksinasi', 'covid']",positif,1
+273,"['masyarakat', 'apresiasi', 'sukses', 'vaksinasi']",positif,1
+274,"['vaksin', 'yg', 'butuh']",positif,1
+275,"['korps', 'jaksa', 'ri', 'dukung', 'program', 'vaksinasi', 'covid', 'patuh', 'protokol', 'sehat', 'pakai']",positif,1
+276,"['ayo', 'dukung', 'program', 'nasional', 'vaksinasi', 'tekan', 'tingkat']",positif,1
+277,"['vaksinasi', 'covid', 'jawa', 'barat']",positif,1
+278,"['alhamdulillah', 'tokoh', 'agama', 'tokoh', 'masyarakat', 'influencer', 'sdh', 'duluan', 'insyallah', 'masyarakat']",positif,1
+279,"['lindung', 'maksimal', 'bentuk', 'minggu', 'vaksinasi', 'lengkap', 'dosis', 'ya']",positif,1
+280,"['presiden', 'joko', 'widodo', 'orang', 'vaksin', 'covid', 'vaksin']",positif,1
+281,"['vaksinasi', 'bebas', 'pandemi', 'covid', 'disiplin', 'protokol']",positif,1
+282,"['vaksinasi', 'tekan', 'sebar', 'covid', 'disiplin', 'protokol']",positif,1
+283,"['vaksinasi', 'disiplin', 'protokol']",positif,1
+284,"['dki', 'politis', 'pks', 'terap', 'vaksin', 'persuasif', 'main']",positif,1
+285,"['yuk', 'dukung', 'penting', 'lindung', 'diri', 'kakek', 'nenek', 'anak']",positif,1
+286,"['bentuk', 'ikhtiyar', 'medis', 'sia']",positif,1
+287,"['perintah', 'satu', 'data', 'serta', 'vaksinasi']",positif,1
+288,"['covid', 'aman']",positif,1
+289,"['takut', 'sobat', 'lho', 'kena', 'covid', 'takut', 'kena', 'jarum', 'suntik']",positif,1
+290,['asn'],positif,1
+291,"['ngeteh', 'aebelum', 'vaksin', 'biar', 'anget', 'badan', 'nasgit', 'panas', 'legi', 'gatel', 'eh']",positif,1
+292,"['sosialisasi', 'edukasi', 'kunci', 'sukses', 'vaksinasi']",positif,1
+293,"['menperin', 'vaksinasi', 'salah', 'kunci', 'tumbuh']",positif,1
+294,"['sinovac', 'tingkat', 'kapasitas', 'produksi', 'miliar']",positif,1
+295,"['salam', 'sehat', 'alas', 'vaksinasi', 'krisis']",positif,1
+296,"['tuh', 'ken', 'sedia', 'vaksin', 'tp', 'sbg', 'derita', 'asthma', 'terima', 'imun', 'dr', 'yg']",positif,1
+297,"['vaksinasi', 'covid', 'gubernur', 'bal', 'harap', 'pandemi']",positif,1
+298,"['presiden', 'jokowi', 'suntik', 'vaksin']",positif,1
+299,"['mari', 'sukses']",positif,1
+300,"['vaksin', 'covid', 'atas', 'problem', 'yg', 'panjang']",positif,1
+301,"['pemkot', 'malang', 'vaksinasi', 'covid']",positif,1
+302,"['sesuai', 'jadwal', 'perintah', 'pusat', 'kamis', '', '', 'banten', 'nyata']",positif,1
+303,"['pakai', 'sinovac', 'china', 'turki', 'umum', 'vaksinasi', 'massal', 'turki', 'lampu', 'hijau', 'guna', 'darurat', 'vaksin']",positif,1
+304,[],positif,1
+305,"['vaksin', 'corona', 'masuk', 'indonesia', 'cegah', 'sebar', 'covid']",positif,1
+306,['berani'],positif,1
+307,[],positif,1
+308,"['jawa', 'barat', 'daerah', 'sukses', 'baik', 'vaksinasi']",positif,1
+309,"['mari', 'kenal', 'kerja', 'vaksin', 'sinovac', 'lawan', 'virus', 'vorona', '', 'portal']",positif,1
+310,"['zed', 'stp', 'indonesia', 'sukses', 'vaksinasi', 'polres']",positif,1
+311,"['sukses', 'vaksinasi', '', 'polres']",positif,1
+312,"['jual', 'vaksin', 'aja', 'kali']",negatif,0
+313,"['vaksin', 'sekjen', 'mui', 'sehat', 'sempurna']",positif,1
+314,"['perintah', 'upaya', 'hadir', 'vaksin', 'vaksinasi', 'covid', 'tahap', 'lindung']",positif,1
+315,"['ayo', 'sukses', 'program', 'vaksinasi']",positif,1
+316,"['vaksin', 'gratis', 'bayar', 'harga', 'gak']",positif,1
+317,"['vaksin', 'salah', 'upaya', 'standar', 'tangan', 'wabah', 'kait', 'vaksin', 'muhammadiyah']",positif,1
+318,"['vaksin', 'edy', 'rahmayadi', 'kondisi', 'fisik']",positif,1
+319,"['nya', 'kartu', 'rakyat', 'indonesia', 'jadwal', 'vaksinasi', 'moga', 'allah']",positif,1
+320,"['perintah', 'provinsi', 'lampung', 'gelar', 'kickoff', 'vaksinasi', 'covid', 'kali', 'vaksinasi']",positif,1
+321,"['covid', 'grab', 'harap', 'mitra', 'sasar']",positif,1
+322,"['mari', 'lawan', 'berita', 'hoax', 'vaksin', 'covid', 'orang', 'suka', 'nyinyir', 'tentang', 'bijak']",positif,1
+323,[],positif,1
+324,"['ketua', 'dpr', 'ri', 'puan', 'maharani', 'harap', 'muka', 'agama', 'sukses', 'giat', 'vaksinasi']",positif,1
+325,"['juang', 'lawan', 'virus', 'corona', 'mudah', 'yuk']",positif,1
+326,"['pemkot', 'bandar', 'lampung', 'laksana', 'beri', 'vaksin', 'covid', 'jumat', 'januari']",positif,1
+327,"['gubernur', 'gorontalo', 'cek', 'kesiap', 'lokasi', 'vaksinasi']",positif,1
+328,"['turki', 'resmi', 'tuju', 'vaksin', 'buat', 'sinovac', 'langsung', 'vaksinasi']",positif,1
+329,['sukses'],positif,1
+330,"['beri', 'covid', 'kabupaten', 'rencana', 'jadwal', 'masuk', 'gelombong', 'jateng']",positif,1
+331,"['presiden', 'ri', 'jokowi', 'joko', 'widodo', 'terima', 'sunti', 'vaksin', 'covid']",positif,1
+332,['vaksin'],positif,1
+333,"['vaksin', 'covid', 'produksi', 'sinovac', 'suci']",positif,1
+334,"['mui', 'pasti', 'vaksin', 'covid', 'sinovac', 'halal']",positif,1
+335,"['kembang', 'vaksinasi', 'covid', 'tingkat', 'sentimen', 'positif', 'prospek']",positif,1
+336,"['tahap', 'vaksinasi', 'covid']",positif,1
+337,"['tahap', 'beri']",positif,1
+338,"['vaksinasi', 'covid', 'tahap', 'jawa', 'timur', 'prioritas', 'kota', 'sidoarjo', 'gresik']",positif,1
+339,"['mnc', 'bank', 'jalan', 'prokes', 'utk', 'nyaman', 'aman', 'kecuali', 'mnc']",positif,1
+340,"['vaksin', 'nya', 'bentuk', 'tablet', 'bubur', 'gak', 'sahabat', 'jarum', 'suntik']",negatif,0
+341,"['sulit', 'debat', 'anggota', 'keluarga', 'anti', 'vaksinasi', 'vs', 'vaksinasi', 'alhamdulillah', 'orangtua']",positif,1
+342,"['menteri', 'sehat', 'menkes', 'budi', 'gunadi', 'sadikin', 'sebut', 'juta', 'vaksin', 'covid']",positif,1
+343,"['reposted', 'from', 'alhamdulilah', 'tugas', 'vaksinasi', 'jarak', 'siap', 'ayoooo', 'rame']",positif,1
+344,"['kwi', 'takut', 'ragu', 'terima', 'vaksin']",positif,1
+345,"['topik', 'diskusi', 'pagi', 'sukses', 'vaksinasi', 'pandemi', 'covid', 'pandang']",positif,1
+346,[],positif,1
+347,"['topik', 'diskusi', 'pagi', 'sukses', 'vaksinasi', 'pandemi', 'covid', 'pandang', 'kepala']",positif,1
+348,"['topik', 'diskusi', 'pagi', 'sukses', 'vaksinasi', 'pandemi', 'covid', 'pandang', 'gubernur']",positif,1
+349,"['vaksin', 'solusi', 'aman', 'halal', 'efektif', 'presiden', 'jokowi']",positif,1
+350,"['vaksinasi', 'aman', 'uji', 'presiden']",positif,1
+351,"['vaksinasi', 'indonesia', 'bebas']",positif,1
+352,"['top', 'news', 'koran', 'rakyat', 'merdeka', 'juta', 'orang', 'dki', 'vaksin', 'covid', 'takut', 'ayo', 'sukses']",positif,1
+353,"['vaksin', 'presiden', 'masyarakat']",positif,1
+354,"['ragu', 'ayo']",positif,1
+355,"['perintah', 'upaya', 'vaksin', 'cocok']",positif,1
+356,['umat'],positif,1
+357,"['emang', 'bener', 'ya', 'ken']",positif,1
+358,"['vaksinasi', 'momentum', 'yg', 'utk', 'pandemi', 'vaksinasi', 'cegah']",positif,1
+359,"['dukung', 'program', 'vaksinasi', 'patuh', 'protokol', 'sehat', 'pakai']",positif,1
+360,"['pagi', 'bang', 'moga', 'sehat', 'patuh', 'prokes', 'terap', 'jga', 'sehat']",positif,1
+361,"['vaksin', 'sinovac', 'aman']",positif,1
+362,"['vaksin', 'gratis']",positif,1
+363,"['april', 'vaksinasi']",positif,1
+364,"['perintah', 'komitmen', 'tangan']",positif,1
+365,"['vaksinasi', 'lawan']",positif,1
+366,"['dukung', 'vaksinasi', 'legislatif']",positif,1
+367,"['ayo', 'izin', 'bpom', 'badan', 'awas', 'obat', 'makan', 'fatwa', 'halal', 'mui', '', 'majelis', 'ulama']",positif,1
+368,"['suluh', 'agama', 'islam', 'kec', 'sumpiuh', 'vaksin', 'sosialisasi', 'vaksinasi', 'covid']",positif,1
+369,['alhamdulillah'],positif,1
+370,"['vaksinasi', 'tuju', 'mestimulasi', 'sistem', 'kebal', 'tubuh', 'cegah', 'sakit', 'bentuk', 'antibodi']",positif,1
+371,"['program', 'vaksinasi', 'bikin', 'saham', 'ptpp', 'terbang']",positif,1
+372,"['vaksinasi', 'maksimal', 'idi', 'imbau', 'warga', 'dki', 'disiplin', 'terap']",positif,1
+373,"['rapat', 'indonesia', 'tanah', 'air', 'vaksin', 'bela']",positif,1
+374,"['tum', 'pb', 'idi', 'daeng', 'mohammad', 'faqih', 'vaksinasi', 'covid', 'bentuk', 'kebal', 'tubuh']",positif,1
+375,"['mari', 'terap', 'pakai', 'masker', 'jaga', 'jarak', 'cuci', 'tangan']",positif,1
+376,[],positif,1
+377,['ayoo'],positif,1
+378,"['ketua', 'komisi', 'dprd', 'provinsi', 'lampung', 'yanuar', 'irawan', 'sehat', 'hari']",positif,1
+379,"['nakes', 'rsud', 'padang', 'prioritas', 'vaksinasi']",positif,1
+380,"['perintah', 'china', 'dukung', 'indonesia', 'pusat', 'produksi', 'vaksin', 'regional', 'kawasan', 'asia', 'tenggara', 'baca']",positif,1
+381,"['vaksinasi', 'tenaga', 'sehat', 'sms', 'blast', 'perintah', 'pusat']",positif,1
+382,"['kalo', 'ikut', 'makan', 'yg', 'gizi', 'konsumsi', 'suplement', 'daya']",positif,1
+383,['vaksin'],positif,1
+384,"['sukses', 'program', 'vaksinasi']",positif,1
+385,"['takut', 'suntik', 'vaksin', 'ya', 'benteng', 'virus']",positif,1
+386,"['gw', 'bkn', 'gamau', 'vaksin', 'gw', 'gamau', 'suntik', 'doang', 'anjing', 'kalo', 'yg', 'kapsul', 'aja']",negatif,0
+387,"['vaksin', 'indonesia', 'bebas']",positif,1
+388,"['indonesia', 'takut', 'vaksin', 'gatakut', 'minum']",negatif,0
+389,['disiplin'],positif,1
+390,"['perintah', 'indonesia', 'upaya', 'tanggulang']",positif,1
+391,[],positif,1
+392,"['vaksin', 'aman', 'tenaga', 'sehat']",positif,1
+393,"['nakes', 'vaksin', 'covid', 'sedia', 'layan', 'registrasi', 'via']",positif,1
+394,"['vaksin', 'halal']",positif,1
+395,"['siap', 'vaksin']",positif,1
+396,['terap'],positif,1
+397,"['upaya', 'lawan']",positif,1
+398,[],positif,1
+399,"['jaga', 'sehat', 'jalan', 'pakai', 'masker', 'cuci', 'tangan', 'jaga', 'jarak', 'salam']",positif,1
+400,"['vaksinasi', 'covid', 'salah', 'upaya', 'kendali', 'virus']",positif,1
+401,"['takut', 'vaksin', 'halal']",positif,1
+402,"['vaksin', 'sinovac', 'suci']",positif,1
+403,"['vaksin', 'covid', 'distribusi']",positif,1
+404,"['masyarakat', 'ragu', 'vaksinasi']",positif,1
+405,"['denda', 'jt', 'paksa', 'bayar']",negatif,0
+406,"['sinovac', 'turun', 'infeksi', 'covid', 'persen']",positif,1
+407,"['covid', 'nakes', 'surabaya', 'lancar', 'gejala']",positif,1
+408,"['norwegia', 'buat', 'jadi', 'orang']",positif,1
+409,"['takut', 'khawatir', 'ya', 'wargi', 'jabar', 'yuk', 'sukses', 'vaksinasi']",positif,1
+410,"['vaksinasi', 'lindung', 'lindung', 'negeri']",positif,1
+411,"['tolak', 'suntik', 'vaksin']",negatif,0
+412,"['vaksin', 'sinovac', 'bukti']",positif,1
+413,"['erti', 'vaksin']",positif,1
+414,"['usut', 'tuntas', 'jamin', 'uji', 'klinis', 'hidup']",positif,1
+415,"['henti', 'vaksinasi', 'efek', 'samping', 'serius', 'the', 'post', 'henti']",negatif,0
+416,"['vaksinasi', 'covid', 'harap', 'upaya', 'lawan']",positif,1
+417,['bisnis'],negatif,0
+418,"['perintah', 'dekat', 'persuasif', 'vaksinasi']",positif,1
+419,"['dukung', 'vaksin']",positif,1
+420,"['vaksinasi', 'ikhtiar']",positif,1
+421,"['indonesia', 'salah', 'negara']",positif,1
+422,"['gakeslab', 'indonesia', 'dukung']",positif,1
+423,"['vaksin', 'dosis', 'vaksin', 'biontech', 'pfizer', 'vaksin', 'moderna', 'lindung']",positif,1
+424,"['vaksinasi', 'covid', 'laku', 'putus', 'rantai', 'tular', 'virus']",positif,1
+425,"['vaksinasi', 'krisis', 'sebab', 'pandemi']",positif,1
+426,"['gratis', 'vaksin', 'covid', 'masyarakat']",positif,1
+427,"['program', 'vaksinasi', 'covid', 'guna', 'pulih', 'ekonomi']",positif,1
+428,"['vaksinasi', 'covid', 'guna', 'pulih', 'ekonomi']",positif,1
+429,"['bye', 'corona', 'selamat']",positif,1
+430,"['vaksin', 'luur', 'ayo', 'bund']",positif,1
+431,"['hakekat', 'ad', 'kebal', 'tubuh', 'imunitas', 'jenis', 'sakit', 'virus']",positif,1
+432,"['hakekat', 'ad', 'kebal', 'tubuh', 'imunitas', 'jenis', 'sakit', 'virus']",positif,1
+433,['dukung'],positif,1
+434,"['yuk', 'lawan', 'pandemi']",positif,1
+435,"['yuk', 'lawan', 'corona', 'vaksinasi', 'laksana', 'lupa', 'cegah']",positif,1
+436,"['vaksinasi', 'jadi', 'imun', 'tubuh', 'kuat', 'bentuk', 'antibodi']",positif,1
+437,"['vaksinasi', 'pulih', 'ekonomi']",positif,1
+438,"['gera', 'vaksinasi', 'covid']",positif,1
+439,['sertifikasi'],positif,1
+440,"['sukses', 'covid', 'indonesia', 'bebas', 'virus', 'corona', 'bahaya']",positif,1
+441,"['sertifikat', 'uji']",positif,1
+442,"['ayu', 'dukung', 'program', 'vaksinasi', 'indonesia']",positif,1
+443,['dukung'],positif,1
+444,"['langsung', 'kantong', 'sertifikat']",positif,1
+445,['izin'],positif,1
+446,['yok'],positif,1
+447,"['vaksin', 'mari', 'sukses', 'vaksinasi', 'nasional']",positif,1
+448,"['vaksin', 'cek', 'daftar', 'vaksin', 'jaga', 'protokol', 'sehat']",positif,1
+449,"['vaksin', 'masyarakat', 'tahap', 'kembang', 'rangkai', 'uji']",positif,1
+450,"['perintah', 'sertifikat', 'kakak', 'kakak', 'vaksinasi', 'untung']",positif,1
+451,"['abadi', 'dukung', 'vaksinasi', 'mandiri']",positif,1
+452,"['tenaga', 'sehat', 'hinterland', 'terima', 'suntik', 'vaksinasi', 'covid']",positif,1
+453,"['yuk', 'ga', 'ragu', 'uji']",positif,1
+454,"['langkah', 'menang', 'lawan']",positif,1
+455,"['vaksin', 'upaya', 'rang']",positif,1
+456,"['sedia', 'layan', 'chatbot', 'whatsapp', 'mudah', 'terima']",positif,1
+457,"['who', 'tolak', 'vaksinasi', 'syarat', 'pergi']",negatif,0
+458,"['ribka', 'tjiptaning', 'vaksin', 'sinovac', 'barang', 'rongsok', 'respons']",negatif,0
+459,"['okawan', 'yuk', 'kenal', 'vaksin', 'sinovac', 'pakai', 'vaksinasi', 'covid']",positif,1
+460,"['nakes', 'puskesmas', 'blang', 'bintang', 'vaksinasi']",positif,1
+461,"['laksana', 'vaksinasi', 'tenaga', 'sehat', 'jawa', 'jalan', 'lancar', 'tenaga']",positif,1
+462,"['sayang', 'sayang', 'keluarga', 'kerabat', 'dekat', 'tangkal', 'lindung']",positif,1
+463,"['masyarakat', 'terima', 'informasi', 'kait', 'covid']",positif,1
+464,"['semangat', 'pagiiiiii', 'ragu', 'hubung', 'hotline', 'vaksin']",positif,1
+465,"['vaksinasi', 'jalan', 'prokes', 'ojo', 'kendor']",positif,1
+466,"['ayo', 'covid', 'aman', 'percaya', 'halal', 'selamat', 'tinggal', 'corona', 'indonesia']",positif,1
+467,"['vaksin', 'salah', 'putus', 'rantai', 'sebar']",positif,1
+468,"['optimis', 'dampak']",positif,1
+469,"['mari', 'dukung', 'program']",positif,1
+470,"['vaksinasi', 'covid', 'laku', 'putus', 'rantai', 'tular']",positif,1
+471,"['takut', 'perintah', 'pasti', 'vaksin', 'covid']",positif,1
+472,"['dukung', 'sukses', 'program', 'vaksin']",positif,1
+473,"['tim', 'uji', 'klinis', 'vaksin', 'covid', 'aman']",positif,1
+474,"['vaksinasi', 'jaga', 'sehat']",positif,1
+475,"['tni', 'polri', 'kawal', 'laksana', 'vaksinasi', 'indonesia']",positif,1
+476,"['gilir', 'vaksin', 'yuk', 'tahu', 'ampuh', 'jenis', 'vaksin', 'darat']",positif,1
+477,"['ribu', 'warga', 'saudi', 'arabia', 'ekspatriat', 'terima', 'sunti', 'vaksin']",positif,1
+478,"['laksana', 'sesuai']",positif,1
+479,"['ikhtiar', 'jalan', 'masker', 'cuci', 'tangan', 'jaga', 'jarak', 'hindar', 'kerumun', 'kurang', 'mobiltas']",positif,1
+480,"['vaksin', 'pfizer', 'efikasi', 'manjur', 'usaha', 'capai']",positif,1
+481,"['vaksin', 'idi', 'imbau', 'warga', 'taat', 'protokol', 'sehat']",positif,1
+482,"['efikasi', 'vaksin', 'sinovac', 'harap', 'vaksin', 'turun', 'jadi']",positif,1
+483,"['vaksinasi', 'baik', 'efektif', 'lawan', 'pandemi', 'virus']",positif,1
+484,"['mpu', 'alim', 'ulama', 'sepakat', 'ikut', 'fatwa', 'mui', 'vaksinasi', 'covid']",positif,1
+485,"['jubir', 'perintah', 'masyarakat', 'vaksin']",positif,1
+486,"['perintah', 'kota', 'bandung', 'boleh', 'idap', 'hiv', 'aids', 'ikut', 'vaksinasi']",positif,1
+487,"['program', 'vaksinasi', 'covid', 'salah', 'upaya', 'perintah', 'tanggulang', 'pandemi', 'kepala', 'staf']",positif,1
+488,"['papar', 'pangdam', 'hadir', 'laksana', 'vaksinasi', 'wilayah', 'jalan', 'isu']",positif,1
+489,"['yogo', 'komitmen', 'sosialisasi', 'vaksinasi', 'masyarakat', 'tokoh']",positif,1
+490,"['menag', 'pesantren', 'tokoh', 'agama', 'prioritas', 'vaksinasi', 'netizen', 'gak', 'vaksin']",positif,1
+491,"['palestina', 'terima', 'dosis', 'vaksin', 'sputnik', 'kirim', 'gelombang']",positif,1
+492,[],positif,1
+493,"['vaksinasi', 'protokol', 'sehat']",positif,1
+494,"['vaksin', 'salah', 'putus', 'rantai', 'sebar']",positif,1
+495,"['selamat', 'pagi', 'moga', 'sehat', 'laksana', 'tingkat', 'imun', 'kurang', 'stres']",positif,1
+496,"['ayojangan', 'takut', 'program']",positif,1
+497,"['dukung', 'perintah', 'tangan', 'sehat', 'nasional', 'hindar', 'berita']",positif,1
+498,"['pagi', 'sobbb', 'alhamdulillah', 'mui', 'vaksin', 'covid', 'suci', 'halal', 'tinggal', 'tunggu']",positif,1
+499,"['vaksinasi', 'disiplin', 'protokol', 'sehat', 'bentuk', 'ikhtiar']",positif,1
+500,"['vaksin', 'lho', 'lur', 'jaga', 'sehat', 'orang', 'orang', 'vaksin']",positif,1
+501,"['vaksinasi', 'game']",positif,1
+502,"['wartawan', 'usul', 'masuk', 'salah', 'kelompok', 'prioritas', 'vaksinasi', 'covid']",positif,1
+503,"['nakes', 'sosialisasi', 'tata', 'vaksinasi']",positif,1
+504,"['webinar', 'abdi', 'masyarakat', 'vaksinasi']",positif,1
+505,"['vaksin', 'mending', 'pikir', 'minimal', 'mikir', 'deh', 'dr', 'pd', 'timbul', 'korban', 'jiwa', 'yg', 'gk', 'tau', 'liput', 'media']",negatif,0
+506,"['perintah', 'indonesia', 'laksana', 'program', 'vaksinasi', 'cegah', 'sebar', 'covid']",positif,1
+507,"['vaksin', '']",positif,1
+508,"['pasok', 'aman', 'tinggal']",positif,1
+509,[],positif,1
+510,"['lewat', 'uji', 'coba', 'sesuai']",positif,1
+511,"['langsung', 'ri', 'yg']",positif,1
+512,"['sembari', 'tunggu', 'vaksinasi', 'mari', 'terap', 'protokol', 'sehat', 'aktivitas']",positif,1
+513,"['sahabat', 'mata', 'beri', 'ikhtiar', 'upaya', 'tingkat', 'imunitas', 'tubuh']",positif,1
+514,"['kota', 'bekas', 'vaksinasi', 'covid', 'laksana', 'tahap', 'takut', 'vaksin']",positif,1
+515,"['presiden', 'djoko', 'widodo', 'widodo', 'nan', 'utara', 'kelola', 'pandemi', 'lebihlebih', 'palu', 'vaksinasi']",positif,1
+516,"['cepat', 'vaksinasi', 'ganjar', 'usul', 'sistem', 'daftar']",positif,1
+517,"['dpr', 'cepat', 'vaksin', 'merah', 'putih', 'andal', 'impor']",positif,1
+518,"['vaksin', 'covid', 'sinovac', 'halal', 'humas']",positif,1
+519,"['kendali', 'pandemi', 'vaksinasi', 'game']",positif,1
+520,"['sambut', 'datang', 'vaksin', 'covid', 'dinkes', 'pijay', 'siap', 'kotak', 'cool']",positif,1
+521,"['perintah', 'jamin', 'vaksin', 'gratis', 'warga', 'zona']",positif,1
+522,"['dubes', 'as', 'ajak', 'gandeng', 'farmasi', 'pfizer', 'moderna', 'atas']",positif,1
+523,"['utk', 'pulih', 'dunia', 'krn', 'angkara']",positif,1
+524,"['apakabar', 'dunia', 'penuh', 'tipu']",negatif,0
+525,"['yuk', 'kenal', 'vaksin', 'covid', 'kali']",positif,1
+526,"['vaksinasi', 'covid', 'humas']",positif,1
+527,[],positif,1
+528,[],positif,1
+529,"['aman', 'ga']",positif,1
+530,"['mari', 'dukung', 'program', 'vaksinasi', 'covid', 'repost', 'from', '', 'hai', 'bpom', 'terbit']",positif,1
+531,"['pandemi', 'game']",positif,1
+532,"['kendali', 'pandemi']",positif,1
+533,"['program', 'vaksinasi', 'disiplin', 'protokol', 'sehat', 'cepat', 'tangan', 'pandemi']",positif,1
+534,"['sukses', 'indonesia', 'hilang', 'makan', 'hoax', 'ya']",positif,1
+535,"['wacana', 'takut', 'vaksin', 'emg', 'msh', 'yg', 'takut']",positif,1
+536,"['ikut', 'atur']",positif,1
+537,"['vaksin', 'aman', 'efektif', 'hala']",positif,1
+538,"['lawan', 'hoax', 'dukung', 'vaksinasi']",positif,1
+539,"['vaksinasi', 'indonesia', 'sehat', 'bebas']",positif,1
+540,"['perintah', 'jamin', 'vaksin', 'aman', 'efektif', 'halal']",positif,1
+541,"['vaksinasi', 'nasional', 'aman']",positif,1
+542,"['mui', 'keluar', 'fatwa', 'halal', 'vaksin']",positif,1
+543,"['dukung', 'program', 'vaksinasi']",positif,1
+544,"['ayo', 'dukung', 'program', 'vaksinasi']",positif,1
+545,"['waspada', 'hoax', 'kait', 'vaksin']",positif,1
+546,"['cegah', 'covid', 'dukung', 'program', 'vaksinasi']",positif,1
+547,['vaksin'],positif,1
+548,"['masyarakat', 'disiplin', 'protokol']",positif,1
+549,"['tahu', 'sohib', 'indonesia', 'pilih', 'jd', 'slh', 'ketua', 'kerjasama']",positif,1
+550,"['vaksin', 'indonesia']",positif,1
+551,"['satu', 'wartawan', 'indonesia', 'pwi', 'dukung', 'rencana', 'vaksinasi', 'wartawan']",positif,1
+552,"['komitmen', 'pasok', 'vaksin', 'covid', 'indonesia', 'lebih', 'target']",positif,1
+553,"['vaksinasi', 'gratis', 'perintah', 'daerah', 'indonesia', 'samping']",positif,1
+554,"['jokowi', 'vaksinasi', 'covid', 'mandiri', 'merek']",positif,1
+555,"['airlangga', 'vaksinasi', 'mandiri', 'siap', 'regulasi', 'karyawan']",positif,1
+556,"['perintah', 'fasilitas', 'pabean', 'cukai', 'paja', 'impor', 'vaksin', 'bahan', 'baku', 'vaksin']",positif,1
+557,"['yuk', 'yuk', 'yuk', 'ngopi', 'yuk', 'staysafe', 'guys', 'doain', 'aje', 'cepet', 'buruburu', 'udahan', 'dah', 'nih']",positif,1
+558,"['pks', 'parlemen', 'vaksinasi', 'momentum', 'benah']",positif,1
+559,"['vaksin', 'covid', 'wilayah', 'kabupaten']",positif,1
+560,"['nakes', 'lingkung', 'rsud', 'abdul', 'moeloek', 'provinsi', 'lampung', 'laksana', 'sunti', 'vaksinasi']",positif,1
+561,"['pemko', 'lhokseumawe', 'laku', 'siap', 'datang']",positif,1
+562,"['rintis', 'vaksin', 'negeri', 'kucing']",positif,1
+563,"['vaksin', 'percaya', 'yg', 'ni', 'percaya', 'wujud', '', 'minat']",negatif,0
+564,"['sars', 'hiv', 'sakit', 'tular', 'yg', 'keri', 'covid', 'berita', 'keri', 'covid']",negatif,0
+565,"['juru', 'bicara', 'perintah', 'vaksinasi', 'covid', 'dr', 'siti', 'nadia', 'tarmizi', 'ajak', 'masyarakat', 'semangat']",positif,1
+566,"['ilmuwan', 'oxford', 'kembang', 'vaksin', 'covid', 'versi']",positif,1
+567,"['dukung', 'vaksin', 'merah', 'putih', 'erick', 'thohir', 'sayang', 'rp', 'triliun', 'alir']",positif,1
+568,"['pelaksanana', 'vaksinasi', 'yakin', 'dampak', 'positif', 'upaya', 'bantu', 'pulih', 'ekonomi']",positif,1
+569,"['menteri', 'airlangga', 'vaksinasi', 'covid', 'mandiri', 'karyawan']",positif,1
+570,"['masyarakat', 'ragu']",positif,1
+571,['optimis'],positif,1
+572,['disiplin'],positif,1
+573,"['patuh', 'prokes']",positif,1
+574,"['pandemi', 'ttep', 'patuh']",positif,1
+575,"['klo', 'mah', 'sya', 'ndk']",negatif,0
+576,['ikhtiar'],positif,1
+577,"['vaksinasi', 'covid', 'indonesia', 'rabu', '', '', 'hadir', 'vaksin', 'harap', 'bentuk']",positif,1
+578,"['bebas', 'kovid', 'percaya']",positif,1
+579,"['target', 'biden', 'lawan', 'covid', 'wajib', 'masker', 'vaksinasi', 'juta', 'warga']",positif,1
+580,"['pasti', 'tangan', 'bersih', 'aktivitas', 'hindar']",positif,1
+581,"['himbauan', 'kepala', 'daerah', 'lancar', 'program', 'vaksinasi']",positif,1
+582,"['yuk', 'lancar', 'vaksinasi']",positif,1
+583,"['menkes', 'syarat', 'usaha', 'vaksinasi']",positif,1
+584,"['pakar', 'tidur', 'faktor', 'vaksinasi']",positif,1
+585,"['fungsi', 'tubuh', 'tahan', 'lindung', 'sakit', 'infeksi']",positif,1
+586,"['antibodi', 'lawan', 'sebab', 'infeksi', 'vaksinasi']",positif,1
+587,"['cak', 'imin', 'ragu', 'kualitas', 'vaksin', 'covid']",positif,1
+588,"['tips', 'hindar', 'batuk', 'flu', 'laku', 'vaksinasi', 'cegah', 'vaccine', 'center', 'rs', 'pku']",positif,1
+589,"['vaksin', 'covid', 'tahap', 'sabtu', 'januari', 'terima', 'kasih', 'dok', 'pipi', 'dinas', 'sehat', 'kota', 'depok']",positif,1
+590,"['perintah', 'tanggung', 'biaya', 'timbul', 'akibat', 'efek', 'samping', 'vaksinasi', 'covid']",positif,1
+591,"['vaksin', 'orang', 'pod']",positif,1
+592,"['terang', 'ahli', 'ya', 'vaksin', 'edar', 'aman', 'suci', 'halal']",positif,1
+593,"['airlangga', 'vaksin', 'covid', 'mandiri', 'gratis', 'karyawan']",positif,1
+594,"['alhamdulillah', 'vaksinasi', 'rsup', 'dr']",positif,1
+595,"['korang', 'caya', 'kenal', 'jho', 'low', 'korang']",negatif,0
+596,"['covid', 'lindung', 'tubuh']",positif,1
+597,"['bio', 'farma', 'cold', 'room', 'simpan', 'vaksin', 'covid']",positif,1
+598,"['pakar', 'alas', 'pakai', 'masker']",positif,1
+599,"['saking', 'enak', 'vaksin', 'sampe']",positif,1
+600,"['edar', 'juta', 'dosis', 'bayar']",positif,1
+601,"['haha', 'btw', 'ngomong', 'kamala', 'inget', 'kelola', 'vaksin', 'gratis', 'bayar']",positif,1
+602,"['hmm', 'ngomong', 'ngomong', 'pandemi', 'hebat', 'kasih', 'vaksin', 'gratis']",positif,1
+603,"['numpang', 'kk', 'ngomong', 'ngomong', 'pandemi', 'hebat', 'kasih', 'vaksin', 'gratis']",positif,1
+604,"['btw', 'ngomong', 'ngomong', 'pandemi', 'hebat', 'kasih', 'vaksin', 'gratis']",positif,1
+605,"['moga', 'vaksinasi', 'sukses', 'ngomong', 'ngomong', 'covid', 'hebat']",positif,1
+606,"['numpang', 'mas', 'ngomong', 'ngomong', 'pandemi', 'hebat', 'kasih', 'vaksin']",positif,1
+607,"['amsakar', 'harap', 'dampak', 'positif', 'ekonomi', 'pariwisata']",positif,1
+608,"['buka', 'ragu', 'vaksin', 'made', 'in', 'cina', 'ya', 'takut', 'aja', 'vaksin', 'sicnovac', 'nya', 'hasil', 'ntar']",negatif,0
+609,"['puskesmas', 'garawangi', 'lokasi', 'launching', 'suntik', 'vaksin', 'covid', 'kabupaten']",positif,1
+610,"['assalamualaikum', 'sehat', 'bahagia', 'aamiin', 'pandemi', 'ganas']",positif,1
+611,"['ayo', 'bantu', 'ya', 'prok', 'prok', 'prok', 'yak', '']",positif,1
+612,"['semangat', 'pagi', 'senyum']",positif,1
+613,"['ayo', 'selamat', 'nyawa']",positif,1
+614,"['waspada', 'virus', 'corona', '', 'perang']",positif,1
+615,"['vaksin', 'sinovac', 'aman', 'halal', 'resiko']",positif,1
+616,"['vaksin', 'covid']",positif,1
+617,"['presiden', 'aja', 'berani', 'vaksin', 'covid']",positif,1
+618,"['cegah', 'covid', 'dukung', 'program', 'perintah', 'vaksinasi']",positif,1
+619,['alas'],positif,1
+620,['ragu'],positif,1
+621,"['tuju', 'jangka']",positif,1
+622,"['aman', 'vaksin']",positif,1
+623,"['giat', 'vaksinasi', 'alur', 'vaksin']",positif,1
+624,['halal'],positif,1
+625,"['upaya', 'perintah']",positif,1
+626,"['lolos', 'uji']",positif,1
+627,"['lindungu', 'rakyat']",positif,1
+628,['jamin'],positif,1
+629,"['mantap', 'jkw']",positif,1
+630,['atas'],positif,1
+631,['lindung'],positif,1
+632,"['ahli', 'dokter', 'vaksin']",positif,1
+633,"['bantu', 'biar', 'nggak']",positif,1
+634,"['sukses', 'giat', 'kodim', 'pekanbaru', 'tau', 'laksana', 'vaksinasi']",positif,1
+635,"['lindung', 'keluarga', 'vaksinasi']",positif,1
+636,"['ikhtiar', 'halau', 'covid', 'aceh', 'humas']",positif,1
+637,['suci'],positif,1
+638,"['sembuh', 'covid', 'simak', 'langsung', 'video', 'share']",positif,1
+639,[],positif,1
+640,['vaksin'],positif,1
+641,"['masyarakat', 'indonesia']",positif,1
+642,"['denger', 'ya', 'vaksin', 'lindung', 'yg', 'terima', 'vaksin', 'covid', 'tanam', 'chips']",positif,1
+643,"['patuh', 'prokes', 'teman']",positif,1
+644,"['takut', 'vaksin', 'vaksin', 'covid', 'produksi', 'sinovac', 'suci']",positif,1
+645,['dukung'],positif,1
+646,"['indonesia', 'salah']",positif,1
+647,[],positif,1
+648,[],positif,1
+649,"['mari', 'sukses', 'vaksinasi', 'covid', 'daerah', 'pandemi']",positif,1
+650,"['indonesia', 'aman', 'juta', 'dosis', 'vaksin']",positif,1
+651,"['ayo', 'dukung']",positif,1
+652,"['takut', 'vaksin', 'takut', 'sakit', 'aja', 'prof', 'kusnandi']",positif,1
+653,"['moga', 'vaksinasi', 'jalan']",positif,1
+654,[],negatif,0
+655,['vaksinasi'],positif,1
+656,"['mari', 'dukung', 'progeam', 'vaksinasi']",positif,1
+657,"['sehat', 'baik', 'ekonomi']",positif,1
+658,"['layan', 'vaksinasi']",positif,1
+659,['ragu'],positif,1
+660,"['vaksinya', 'aman']",positif,1
+661,['presiden'],positif,1
+662,['cegah'],positif,1
+663,"['masyarakat', 'indonesia', 'vaksin', 'pulih', 'indonesia', 'mari', 'dukung', 'program', 'vaksinasi', 'vaksin', 'lancar']",positif,1
+664,"['vaksin', 'lancar', 'rakyat', 'kuat', 'ayo', 'dukung', 'program', 'vaksinasi', 'kovid', 'nasional']",positif,1
+665,"['pulih', 'indonesia', 'vaksin', '', 'vaksin', 'lancar', 'rakyat']",positif,1
+666,"['', 'ayoo', 'satu', 'lawan']",positif,1
+667,"['dukung', 'program', 'perintah', 'laksana', 'vaksin']",positif,1
+668,"['vaksinasi', 'solusi', 'atas']",op,1
+669,"['vaksinasi', 'bebas', 'pandemi']",positif,1
+670,"['vaksin', 'lindung']",positif,1
+671,"['masyarakat', 'indonesias', 'vaksin', 'pulih', 'indonesia', 'bebas', 'kovid']",positif,1
+672,"['dukung', 'program', 'vaksinasi', 'covid', 'bebas', 'kovid', 'percaya']",positif,1
+673,"['tolak', 'vaksin', 'bebas', 'kovid', 'percaya']",positif,1
+674,"['vaksin', 'dampak', 'langsung', 'pulih', 'ekonomi']",positif,1
+675,"['grobogan', 'laksana', 'vaksin', 'sehat', 'pulih', 'ekonomi']",[p,1
+676,"['satu', 'awat', 'nasional', 'indonesia', 'ppni', 'dukung', 'vaksinasi']",positif,1
+677,"['satu', 'awat', 'nasional', 'endonesia', '', 'ppni', '', 'support', 'vaksinasi']",positif,1
+678,"['satu', 'pelihara', 'lokal', 'ri', '', 'satu', 'awat', 'nasional', 'indonesia', '', 'bawa', 'vaksinasi']",positif,1
+679,"['satu', 'awat', 'nasional', 'endonesia', '', 'ppni', '', 'ndukung', 'vaksinasi']",positif,1
+680,"['satu', 'jaga', 'lokal', 'republik', 'indonesia', '', 'satu', 'awat', 'nasional', 'indonesia', '', 'bopong', 'vaksinasi']",positif,1
+681,"['satu', 'awat', 'nasional', 'endonesia', '', 'ppni', '', 'dkng', 'vaksinasi']",positif,1
+682,"['satu', 'lindung', 'negeri', 'republik', 'indonesia', '', 'satu', 'awat', 'nasional', 'indonesia', '', 'panggul', 'vaksinasi']",positif,1
+683,"['presiden', 'joko', 'wododo', 'indonesia', 'milik', 'kuat', 'sektor']",positif,1
+684,"['presiden', 'joko', 'wododo', 'nan', 'utara', 'ri', 'pengaruh', 'sektor']",positif,1
+685,"['prsidem', 'joko', 'wododo', 'yng', 'bhw', 'endonesia', 'memilki', 'kuat', 'gede', 'sektor']",positif,1
+686,"['presiden', 'joko', 'wododo', 'nan', 'tengah', 'republik', 'indonesia', 'kantong', 'terampil', 'sektor']",positif,1
+687,"['persiden', 'joko', 'wododo', 'yng', 'bhwa', 'endonesia', 'ngemiliki', 'kuat', 'bsr', 'sektor']",positif,1
+688,"['presiden', 'joko', 'wododo', 'nan', 'tengah', 'ri', 'pegang', 'kebal', 'sektor']",positif,1
+689,"['grab', 'dukung', 'program', 'vaksinasi', 'covid', 'rata']",positif,1
+690,"['grab', 'dkng', 'prgrm', 'vaksinasi', 'covid', 'yg', 'rata']",positif,1
+691,"['grab', 'bopong', 'rencana', 'vaksinasi', 'covid', 'nan', 'semerbak']",positif,1
+692,"['grab', 'panggul', 'agenda', 'vaksinasi', 'covid', 'nan', 'ruak']",positif,1
+693,"['grab', 'ndukung', 'prgrm', 'vaksinasi', 'covid', 'yng', 'rata']",positif,1
+694,"['grab', 'bopong', 'rencana', 'vaksinasi', 'covid', 'nan', 'luas', 'republik']",positif,1
+695,"['grab', 'suport', 'prgrm', 'vaksinasi', 'covid', 'yng', 'rata']",positif,1
+696,"['idi', 'saran', 'vaksin', 'covid', 'antibodi', 'optimal']",positif,1
+697,"['yok', 'biar', 'bs', 'mejeng']",positif,1
+698,"['yuk', 'dukung']",positif,1
+699,"['halal', 'suci']",positif,1
+700,"['saran', 'idi', 'vaksinasi', 'covid', 'antibodi']",positif,1
+701,"['lengah', 'laku', 'vaksinasi', 'dosis', 'ya', 'lur', 'tetep', 'ya']",positif,1
+702,"['tenaga', 'sehat', 'majenang', 'cilacap', 'vaksin']",positif,1
+703,"['pekan', 'kemarin', 'proses', 'sunti', 'vaksin', 'covid', 'perdana', 'nakes']",positif,1
+704,"['perintah', 'upaya', 'vaksin', 'covid', 'aman']",positif,1
+705,"['program', 'vaksinasi', 'covid', 'jawa', 'barat', 'dukung', 'tenaga']",positif,1
+706,"['vaksinasi', 'anggap', 'kunci', 'pulih', 'ekonomi', 'negara', 'dunia', 'indonesia']",positif,1
+707,"['sukses', 'vaksinasi', 'covid']",positif,1
+708,['yuk'],positif,1
+709,['cegah'],positif,1
+710,['yuk'],positif,1
+711,"['dukung', 'program']",positif,1
+712,['proteksi'],positif,1
+713,[],positif,1
+714,"['vaksin', 'tu', 'aman', 'halal']",positif,1
+715,"['vaksin', 'perintah', 'mandiri', 'sedia', 'gratis']",positif,1
+716,"['paham', 'atur']",positif,1
+717,"['polisi', 'kawal', 'ketat', 'distribusi', 'covid']",positif,1
+718,"['bentuk', 'ikhtiar', 'smoga', 'pandemi', 'sehat']",positif,1
+719,"['bupati', 'pamekasan', 'ajak', 'warga', 'vaksin']",positif,1
+720,"['pandemi', 'kasih', 'kendor', 'patuh', 'protokol', 'sehat']",positif,1
+721,['vaksinasi'],positif,1
+722,"['vaksin', 'halal']",positif,1
+723,"['ayo', 'dukung', 'program']",positif,1
+724,"['dinkes', 'mojokerto', 'terima', 'ribu', 'vaksin', 'sinovac', 'tahap']",positif,1
+725,"['video', 'distribusi', 'vaksin', 'kawal', 'mobil', 'baracuda', 'probolinggo']",positif,1
+726,"['suntik', 'vaksin', 'covid', 'tanggal', 'januari', 'jadwal', 'tetap']",positif,1
+727,"['ayo', 'terap', 'tolak', 'vaksin', 'bebas', 'kovid', 'percaya']",positif,1
+728,"['vaksin', 'bukti', 'aman']",positif,1
+729,"['ayoo', 'dukung']",positif,1
+730,"['dukung', 'tangan']",positif,1
+731,"['sertifikat', 'bpom']",positif,1
+732,"['coba', 'cek', 'info', 'aj']",positif,1
+733,"['dukung', 'program', 'vaksinasi', 'nasional']",positif,1
+734,"['dukung', 'vaksinasi', 'alir', 'kapolsek', 'kalibagor', 'akp', 'dwi', 'astuti', 'ratna']",positif,1
+735,"['kriteria', 'kriteria', 'aman', 'terima', 'vaksin', 'sinovac', 'qluebie', 'kali', 'hadir', 'alur']",positif,1
+736,"['vaksinasi', 'sunti', 'angin', 'segar', 'sektor', 'properti', 'via']",positif,1
+737,"['cek', 'kesiap', 'vaksinasi', 'fadeli', 'serah', 'mobil', 'ambulance']",positif,1
+738,"['mendagri', 'apresiasi', 'langkah', 'menkes', 'data', 'kpu']",positif,1
+739,"['penyitas', 'covid', 'donor', 'plasma', 'konvalesen', 'bantu', 'sembuh', 'pasien']",positif,1
+740,"['vaksinasi', 'ikhtiar', 'presiden', 'tangan', 'pandemi', 'covid', 'andi', 'zulkarnain', 'bantu', 'asisten', 'staf', 'khusus']",positif,1
+741,"['langkah', 'kontras', 'bolsonaro', 'hina', 'vaksin', 'china']",positif,1
+742,"['vaksin', 'nyata', 'aman', 'halal']",positif,1
+743,"['vaksin', 'uji', 'klinis', 'aman']",positif,1
+744,"['simbolis', 'vaksinasi', 'covid', 'laksana', 'disabilitas', 'usul', 'perintah', 'kota', 'malang']",positif,1
+745,"['perintah', 'jadi', 'tni', 'polri', 'prioritas', 'vaksinasi']",positif,1
+746,"['tahap', 'vaksinasi']",positif,1
+747,"['vaksinasi', 'tenaga', 'sehat', 'puskesmas', 'kalibagor', 'jalan', 'sukses', 'lancar']",positif,1
+748,"['aplikasi', 'pcare', 'ganguan', 'proses', 'vaksinasi', 'kendala', 'vaksinasi', 'covid', 'tahap']",positif,1
+749,"['fit', 'bupati', 'grobogan', 'suntik', 'vaksin']",positif,1
+750,"['program', 'vaksinasi', 'covid', 'indonesia', 'target', 'selesai']",positif,1
+751,"['vaksinasi', 'ampuh', 'cegah', 'virus', 'covid', 'sukses']",positif,1
+752,"['vaksinasi', 'tu', 'ampuh', 'cegah', 'virus', 'covid', 'sukes', 'untk']",positif,1
+753,"['vaksinasi', 'asosiasi', 'muslim', 'usaha', 'umrah', 'haji', 'tolak', 'virus', 'covid', 'sukses', 'republik']",positif,1
+754,"['vaksinasi', 'tuh', 'ampuh', 'untk', 'cegah', 'virus', 'covid', 'sukes', 'utk']",positif,1
+755,"['vaksinasi', 'asosiasi', 'muslim', 'usaha', 'umrah', 'haji', 'jumpa', 'panggang', 'virus', 'covid', 'gol', 'jumpa']",positif,1
+756,"['vaksinasi', 'iku', 'ampuh', 'tuk', 'cegah', 'virus', 'covid', 'sukes']",positif,1
+757,"['presiden', 'joko', 'widodo', 'program', 'vaksinasi', 'ni', 'harap', 'percaya', 'publik']",positif,1
+758,"['vaksinasi', 'asosiasi', 'muslim', 'usaha', 'umrah', 'haji', 'jumpa', 'awal', 'virus', 'covid', 'maju']",positif,1
+759,"['persiden', 'joko', 'widodo', 'yg', 'bhw', 'adanuya', 'prgrm', 'vaksinasi', 'ni', 'kt', 'hrp', 'kn', 'keprcayaan', 'publik', 'ttg', 'penangann']",positif,1
+760,"['presiden', 'joko', 'widodo', 'nan', 'proklamasi', 'skedul', 'vaksinasi', 'ni', 'harap', 'agama', 'komunal']",positif,1
+761,"['persiden', 'joko', 'widodo', 'yg', 'bhw', 'adanuya', 'prgrm', 'vaksinasi', 'ni', 'qta', 'hrpkan', 'keprcayaan', 'publik', 'ttg', 'penangann']",positif,1
+762,"['presiden', 'joko', 'widodo', 'nan', 'lapor', 'rencana', 'vaksinasi', 'ni', 'harap', 'agama', 'khalayak']",positif,1
+763,"['oresiden', 'joko', 'widodo', 'yng', 'bhw', 'adanuya', 'prgrm', 'vaksinasi', 'ni', 'kt', 'harapkn', 'keprcayaan', 'publik', 'ttng', 'penangann']",positif,1
+764,"['presiden', 'joko', 'widodo', 'nan', 'bukti', 'tata', 'olah', 'vaksinasi', 'ni', 'harap', 'din', 'orang']",positif,1
+765,"['menkes', 'budi', 'gunadi', 'sadikin', 'indonesia', 'tenang', 'lantar', 'aman', 'dosis']",positif,1
+766,"['menkes', 'budi', 'gunadi', 'sadikin', 'yng', 'bhwa', 'endonesia', 'bs', 'tnng', 'lantar', 'tlh', 'amankn', 'dosis', 'vaksin', 'utk']",positif,1
+767,"['menkes', 'budi', 'gunadi', 'sadikin', 'yng', 'bhwa', 'endonesia', 'bsa', 'tnng', 'lantar', 'tlh', 'amankn', 'dosis', 'vaksin']",positif,1
+768,"['menkes', 'amal', 'gunadi', 'sadikin', 'nan', 'lapor', 'republik', 'indonesia', 'sepi', 'pasal', 'suah', 'aman']",positif,1
+769,"['menkes', 'budi', 'gunadi', 'sadikin', 'yg', 'bhw', 'endonesia', 'bsa', 'tnng', 'lantar', 'tlah', 'amankn', 'dosis', 'vaksin', 'unt']",positif,1
+770,"['jokowi', 'kan', 'indonesia', 'hadap', 'tantang', 'vaksin', 'ikhtiar', 'disiplin']",positif,1
+771,"['vaksin', 'covid', 'nyata', 'halal']",positif,1
+772,"['vaksin', 'covid', 'nyata', 'halal', 'tetep']",positif,1
+773,"['vaksin', 'covid', 'nyata', 'halal', 'teguh']",positif,1
+774,"['vaksin', 'covid', 'nyata', 'halal', 'regular']",positif,1
+775,"['vaksin', 'covid', 'nyata', 'halal', 'ttp']",positif,1
+776,"['vaksin', 'covid', 'nyata', 'halal', 'tep']",positif,1
+777,"['vaksin', 'capai', 'warga', 'masyarakat', 'indonesia', 'sehinga', 'sistem', 'kebal', 'masyarakat']",positif,1
+778,"['vaksinasi', 'tahap', 'jateng', 'selesai', 'cepat', 'target', 'puskesmas', 'rumah']",positif,1
+779,"['google', 'daya', 'kantor', 'vaksinasi']",positif,1
+780,"['gorut', 'terima', 'vaksin', 'covid', 'sekda', 'canang', 'pekan']",positif,1
+781,"['dukung', 'vaksinasi']",positif,1
+782,"['alhamdulillah', 'vaksin', 'covid', 'jember']",positif,1
+783,"['vaksinasi', 'vaksin', 'nggo']",negatif,0
+784,"['presiden', 'ajak', 'umat', 'sukses', 'program', 'vaksinasi', 'covid']",positif,1
+785,['mantap'],positif,1
+786,"['viral', 'awat', 'takut', 'jarum', 'suntik', 'vaksin']",negatif,0
+787,"['presiden', 'jokowi', 'besok', 'suntik', 'vaksin', 'covid', 'dosis']",positif,1
+788,"['yakin', 'masyarakat', 'corona', 'aman', 'jabat', 'vaksin']",positif,1
+789,"['kali', 'polsek', 'kalibagor', 'awal', 'vaksin', 'sinovac', 'kantor', 'dinas', 'sehat']",positif,1
+790,"['bpom', 'izin', 'vaksin']",positif,1
+791,"['vaksinasi', 'presiden', 'jokowi', 'siar', 'langsung', 'youtube']",positif,1
+792,"['dukung', 'program', 'perintah', 'laksana', 'vaksinasi']",positif,1
+793,"['sukses', 'vaksinasi', 'program', 'vaksinasi']",positif,1
+794,"['vaksinasi', 'covid', 'kurang', 'transmisi', 'tular']",positif,1
+795,"['urus', 'ikat', 'dokter', 'indonesia', 'pb', 'idi', 'dukung', 'laksa', 'vaksinasi']",positif,1
+796,"['indonesia', 'bebas', 'covid', 'program']",positif,1
+797,"['mari', 'sukses', 'vaksinasi', 'covid', 'indonesia', 'sehat', 'bebas']",positif,1
+798,"['ayo', 'mari', 'vaksin', 'covid', 'kebal', 'covid']",positif,1
+799,"['vaksin', 'covid', 'mari', 'lawan']",positif,1
+800,"['ya', 'aman', 'lansia']",positif,1
+801,"['vaksin', 'sebar', 'kecseluruh']",positif,1
+802,"['insha', 'allah']",positif,1
+803,"['pagi', 'jokowi', 'terima', 'vaksin', 'covid', 'dosis']",positif,1
+804,"['lancar', 'vaksinasi', 'covid', 'kunci', 'pulih', 'ekonomi']",positif,1
+805,"['selamat', 'pagi']",positif,1
+806,"['ayo', 'takut', 'vaksinasi']",positif,1
+807,"['indonesian', 'sehat', 'vaksinasi']",positif,1
+808,"['indonesia', 'bebas']",positif,1
+809,"['sebar', 'vaksin', 'covid', 'sinovac', 'wilayah', 'provinsi', 'jawa']",positif,1
+810,[],positif,1
+811,['uji'],positif,1
+812,['lawan'],positif,1
+813,[],positif,1
+814,"['optimis', 'aja', 'pesimis', 'hilang']",positif,1
+815,"['presiden', 'jalan', 'vaksinasi']",positif,1
+816,"['dukung', 'program', 'vaksinasi', 'vaksinasi', 'cegah', 'sebar', 'virus']",positif,1
+817,"['presiden', 'jokowi', 'terima', 'vaksin', 'dosis']",positif,1
+818,"['dukung', 'vaksinasi', 'bentuk', 'lawan', 'covid', 'bebas', 'kovid']",positif,1
+819,"['dukung', 'program', 'vaksinasi', 'nasional', 'bebas', 'kovid', 'percaya']",positif,1
+820,"['vaksinasi', 'cegah', 'covid', 'bebas', 'kovid', 'percaya']",positif,1
+821,"['covid', 'moga', 'ikhtiar', 'manfaat', '', 'pakai', 'masker', 'jaga', 'jarak', 'rajin', 'cuci']",positif,1
+822,"['vaksinasi', 'terima', 'presiden', 'jokowi']",positif,1
+823,"['presiden', 'jokowi', 'jalan', 'vaksinasi', 'covid', 'tahap', 'selang', 'minggu', 'dosis']",positif,1
+824,"['urus', 'ikat', 'dokter', 'indonesia', 'idi', 'dukung', 'laksana', 'vaksinasi']",positif,1
+825,[],positif,1
+826,"['mari', 'lawan']",positif,1
+827,"['pakai', 'vaksin', 'inggris', 'china', 'maroko', 'vaksinasi']",positif,1
+828,"['mari', 'sukses', 'vaksinasi']",positif,1
+829,"['indonesia', 'bebas', 'covid']",positif,1
+830,['takut'],positif,1
+831,"['pb', 'idi', 'dukunvan', 'laksana', 'vaksinasi']",positif,1
+832,"['vaksinasi', 'masyarakat', 'agenda']",positif,1
+833,"['presiden', 'joko', 'widodo', 'terima', 'vaksinasi', 'covid', 'tahap']",positif,1
+834,"['terima', 'dosis', 'vaksin', 'covid', 'sinovac', 'jokowi', 'nggak']",positif,1
+835,"['mari', 'sukses', 'program']",positif,1
+836,"['vaksin', 'covid']",positif,1
+837,['vaksinasi'],positif,1
+838,['alhamdulillah'],positif,1
+839,"['wakil', 'ketua', 'tim', 'dokter', 'presiden', 'abdul', 'muthalib', 'aku', 'tenang', 'suntik', 'vaksin', 'tahap']",positif,1
+840,"['perintah', 'gencar', 'edukasi', 'vaksinasi', 'covid']",positif,1
+841,"['dukung', 'program']",positif,1
+842,"['warga', 'usia', 'atas', 'vaksin']",positif,1
+843,"['vaksinasi', 'nakes', 'bangun', 'tahan', 'sehat']",positif,1
+844,"['vaksin', 'bebas', 'covid', 'ya', 'vaksin', 'sunti', 'bentuk', 'antibody', 'tubuh']",positif,1
+845,"['presiden', 'jabat', 'public', 'figure', 'laksana', 'vaksinasi', 'dosis']",positif,1
+846,"['jokowi', 'suntik', 'vaksin', 'masyarakat', 'tengah']",positif,1
+847,"['juru', 'bicara', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'vaksinasi']",positif,1
+848,"['juru', 'ngejeplak', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'yg', 'bhwa', 'vaksinasi', 'iki', 'sngt', 'pnting']",positif,1
+849,"['tukang', 'runding', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'nan', 'meri', 'vaksinasi', 'esensial']",positif,1
+850,"['juru', 'ngmng', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'yng', 'bhwa', 'vaksinasi', 'iki', 'sangt', 'pnting', 'kpd']",positif,1
+851,"['tukang', 'cak', 'bicara', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'nan', 'vaksinasi']",positif,1
+852,"['juru', 'ngejeplak', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'yg', 'bhw', 'vaksinasi', 'inih', 'sangt', 'pnting']",positif,1
+853,"['sudut', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'nan', 'vaksinasi', 'sungguhsungguh', 'esensial']",positif,1
+854,"['masyarakat', 'takut', 'vaksinasi', 'ikut', 'program']",positif,1
+855,"['masyrkt', 'nggal', 'prllu', 'tkut', 'vaksinasi', 'yng', 'palibg', 'pnting', 'kt', 'hrus', 'mlai', 'dri', 'sekarg', 'ikut', 'prgrm', 'pemerinth']",positif,1
+856,"['masyrkt', 'prllu', 'atut', 'bkl', 'vaksinasi', 'yng', 'plg', 'pnting', 'kt', 'hrus', 'mlai', 'dr', 'sekrng', 'ikut', 'prgrm', 'pmrth', 'unt', 'putus']",positif,1
+857,"['masyaralkat', 'gak', 'prllu', 'tkutlah', 'akn', 'vaksinasi', 'yng', 'plg', 'pnting', 'qta', 'kudu', 'mlai', 'dri', 'skr', 'ikut', 'prgrm', 'pemenrintah']",positif,1
+858,"['juru', 'bicara', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'dukung', 'vaksinasi', 'kendor', 'protokol']",positif,1
+859,"['bucu', 'runding', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'nan', 'utara', 'bopong', 'vaksinasi', 'kendor']",positif,1
+860,"['juru', 'ngmng', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'yg', 'bhw', 'dkng', 'vaksinasi', 'jng', 'kendor', 'protokol']",positif,1
+861,"['wabup', 'publik', 'vaksin', 'suntik']",positif,1
+862,"['pgamat', 'kbijakan', 'publik', 'saiful', 'yng', 'bhwa', 'prgrm', 'vaksinasi', 'adlh', 'upaya', 'pemerinth', 'yng', 'hrus', 'apresiasi']",positif,1
+863,"['teliti', 'strategi', 'publik', 'saiful', 'nan', 'maklum', 'tata', 'olah', 'vaksinasi', 'tindak', 'negara', 'nan', 'wajar']",positif,1
+864,"['pgamat', 'kbijakan', 'publik', 'saiful', 'yg', 'bhwa', 'prgrm', 'vaksinasi', 'adalh', 'upaya', 'govt', 'yng', 'kdu', 'apresiasi']",positif,1
+865,"['kaji', 'platform', 'publik', 'saiful', 'nan', 'usul', 'rencana', 'vaksinasi', 'daya', 'negara', 'nan', 'wajib', 'apresiasi']",positif,1
+866,"['kodim', 'jayawijaya', 'laksana', 'sosialisasi', 'covid', 'tingkat', 'klinik', 'rsud']",positif,1
+867,"['menkes', 'budi', 'gunadi', 'sadikin', 'aku', 'tambah', 'nafsu', 'makan', 'suntik']",positif,1
+868,"['selamat', 'joko', 'widodo', 'terima', 'sunti', 'vaksin', 'sinovac', 'tahap', 'moga']",positif,1
+869,"['presiden', 'jokowi', 'masyarakat', 'vaksin', 'tengah']",positif,1
+870,"['mari', 'sukses', 'covid', 'bukti', 'alhamdulillah', 'sehat', 'efek']",positif,1
+871,"['ri', 'kgsn', 'ri', 'sedia', 'vaksin', 'cepat', 'tanggap', 'tugas', 'perlu']",positif,1
+872,"['presiden', 'terima', 'sunti', 'vaksin', 'covid', 'yg']",positif,1
+873,"['jokowi', 'target', 'masyarakat', 'vaksin', 'corona', 'tengah', 'februari', 'masyarakat']",positif,1
+874,"['presiden', 'jokowi', 'target', 'vaksinasi', 'corona', 'juta', 'orang']",positif,1
+875,"['presiden', 'ri', 'jokowi', 'kena', 'kaos', 'singlet', 'suntik', 'vaksin', 'covid', 'sinovac', 'istana', 'negara']",positif,1
+876,"['ketua', 'pb', 'ikat', 'dokter', 'indonesia', 'idi', 'tenaga', 'sehat', 'khawatir']",positif,1
+877,"['laksana', 'vaksinasi', 'covid', 'purwodadi', 'jalan', 'lancar', 'vaksinasi', 'puskesmas', 'gubug']",positif,1
+878,"['vaksin', 'sinovac']",positif,1
+879,"['vaksin', 'karna', 'karna', 'alumni']",negatif,0
+880,"['fadjroel', 'vaksinasi', 'gulir']",positif,1
+881,"['sri', 'mulyani', 'disiplin', 'prokes', 'vaksinasi', 'kunci', 'pulih']",positif,1
+882,"['presiden', 'joko', 'widodo', 'terima', 'vaksinasi', 'covid', 'dosis', 'istana', 'presiden', 'rabu', '', '']",positif,1
+883,"['raffi', 'ahmad', 'imbau', 'masyarakat', 'vaksin', 'aman', 'uji', 'vaksin']",positif,1
+884,"['dukung', 'laksana', 'vaksinasi', 'covid']",positif,1
+885,"['pandemi', 'lawan']",positif,1
+886,"['lupa', 'ikut', 'saksi', 'live', 'streaming', 'vaksinasi', 'tahap', 'kamis', 'januari', 'wib']",positif,1
+887,['teman'],positif,1
+888,"['kelola', 'vaksin', 'jamin', 'aman', 'vaksin']",positif,1
+889,"['alhamdulillah', 'vaksin', 'covid', 'buat', 'sinovac', 'aman']",positif,1
+890,"['patuh', 'protokol', 'sehat']",positif,1
+891,"['vaksin', 'aman', 'halal']",positif,1
+892,"['vaksinasi', 'wali', 'kota', 'diri', 'forkopimda', 'kepala', 'dinas', 'sehat', 'tokoh', 'agama', 'organisasi']",positif,1
+893,"['jateng', 'laksana', 'vaksinasi', 'tahap', 'lupa', 'saksi', 'live', 'streaming', 'vaksinasi', 'jateng', 'tahap', 'besok']",positif,1
+894,"['pakar', 'epidemiologi', 'dr', 'tifauzia', 'tyassuma', 'vaksin', 'cacar', 'polio', 'bukti', 'sukses', 'butuh']",positif,1
+895,"['vaksin', 'sinovac', 'distribusi', 'puskesmas', 'rumah']",positif,1
+896,"['tahap', 'tahap', 'ikut', 'kawal', 'jaga', 'polsek', 'kalibagor', 'polresta', 'banyumas', 'sukses']",positif,1
+897,"['vaksin', 'salah', 'solusi', 'lawan', 'sebar']",positif,1
+898,['masyarakat'],positif,1
+899,"['tokoh', 'jabat', 'diy', 'laksana', 'vaksinasi', 'covid']",positif,1
+900,"['proses', 'vaksinasi', 'covid', 'tahap', 'kota', 'jogja']",positif,1
+901,"['jelang', 'vaksinasi', 'wali', 'kota', 'forkompinda', 'jalan', 'screening']",positif,1
+902,"['vaksinasi', 'covid', 'tahap', 'laksana', 'proses', 'laksana', 'vaksinasi', 'alur', 'layan']",positif,1
+903,"['jaga', 'vaksin', 'sinovac', 'personil', 'polsek', 'kalibagor', 'tugas', 'polresta', 'banyumas', 'rsia', 'bunda', 'arif']",positif,1
+904,"['vaksin', 'tuju', 'potong', 'mata', 'rantai', 'sebar']",positif,1
+905,"['vaksin', 'indonesia', 'halal', 'ragu']",positif,1
+906,"['mari', 'cegah', 'sebar', 'virus', 'corona', 'indonesia']",positif,1
+907,"['lindung', 'keluarga', 'virus', 'covid', 'sembuh']",positif,1
+908,['bangkit'],positif,1
+909,['indonesia'],positif,1
+910,"['pb', 'idi', 'dukung', 'laksana']",positif,1
+911,"['mari', 'sukses']",positif,1
+912,"['vaksin', 'selamat', 'mu', 'celaka']",positif,1
+913,"['vaksinasi', 'covid', 'upaya', 'putus', 'sebar']",positif,1
+914,"['vaksin', 'tubuh', 'kebal']",positif,1
+915,"['program', 'vaksinasi', 'covid', 'nasional', 'gratis', 'resmi', 'januari', 'langkah', 'nilai']",positif,1
+916,"['terima', 'vaksin', 'covid', 'malang', 'terima', 'sertifikat']",positif,1
+917,"['lho', 'alas', 'vaksinasi', 'wajib']",positif,1
+918,"['usia', 'bupati', 'malang', 'nyata']",positif,1
+919,[],positif,1
+920,"['rakyat', 'pemerintha', 'kolaborasi', 'atas', 'pandemi']",positif,1
+921,"['rakyatm', 'brsama', 'dng', 'pemerintha', 'kdu', 'kolaborasi', 'ngatasin', 'pandemi']",positif,1
+922,"['bala', 'tentara', 'gabung', 'pemerintha', 'serikat', 'ekang']",positif,1
+923,"['antibodi', 'jokowi', 'lawan', 'covid']",positif,1
+924,"['bupati', 'bekas', 'datang', 'laksana', 'vaksinasi', 'covid', 'tenaga', 'sehat', 'forkopimda', 'kabupaten', 'bekas']",positif,1
+925,"['pemkab', 'malang', 'gelar', 'vaksinasi', 'simbolis', 'pekan']",positif,1
+926,"['lembaga', 'riset', 'visi', 'teliti', 'saksama', 'tarik', 'gali', 'tingkat', 'persepsi', 'masyarakat', 'program', 'vaksinasi']",positif,1
+927,['vaksin'],positif,1
+928,"['presiden', 'joko', 'widodo', 'jokowi', 'jalan', 'vaksinasi', 'corona', 'covid', '', 'istana', 'presiden', 'jokowi']",positif,1
+929,"['vaksinasi', 'simbolis', 'kota', 'malang', 'sukses', 'testimoni', 'tokoh', 'publik', 'dinas', 'komunikasi', 'informatika', 'pemkot']",positif,1
+930,"['vaksinasi', 'covid', 'nakes', 'jateng', 'target', 'rampung']",positif,1
+931,"['masyarakat', 'dukung', 'vaksinasi', 'covid', 'tahap']",positif,1
+932,"['presiden', 'terima', 'covid']",positif,1
+933,"['vaksinasi', 'upaya', 'perintah', 'tekan']",positif,1
+934,"['vaksinasi', 'dosis']",positif,1
+935,"['sukses', 'program', 'vaksinasi', 'covid', 'tokoh', 'bojonegoro', 'ikut', 'vaksin', 'tahap', 'simak', 'lengkap']",positif,1
+936,"['jamin', 'proses', 'vaksinasi', 'aman', 'ganjar', 'bukti', 'sehat', 'dampak']",positif,1
+937,"['posko', 'bantu', 'nakes', 'sulit', 'tiket', 'vaksin', 'tahap']",positif,1
+938,"['moga', 'lekas', 'tuntas', 'vaksinasi', 'kota']",positif,1
+939,"['tokoh', 'batanghari', 'selesai', 'vaksinasi', 'selesai', 'dinkes', 'faskes']",positif,1
+940,"['jamal', 'roti', 'kakap']",positif,1
+941,"['yu', 'vaksin', 'vaksin', 'aman']",positif,1
+942,"['menteri', 'sehat', 'ri', 'pasien', 'hiv', 'vaksin', 'covid', 'penuh']",positif,1
+943,"['kali', 'share', 'efektivitas', 'aman', 'vaksin', 'sinovac', 'selamat', 'jiwa', 'dukung']",positif,1
+944,"['pemprov', 'lampung', 'laksana', 'vaksin']",positif,1
+945,"['vaksin', 'batas', 'perintah', 'utama', 'zona']",positif,1
+946,"['menkes', 'budi', 'gunadi', 'sadikin', 'target', 'vaksinasi', 'covid', 'juta', 'orang']",positif,1
+947,"['alhamdulillah', 'besok']",positif,1
+948,"['prwsiden', 'jokowi', 'terima', 'vaksin', 'kali', 'vaksin']",positif,1
+949,"['sobatkom', 'program', 'vaksinasi', 'covid', 'tahap', 'masyarakat', 'tetap']",positif,1
+950,"['walikota', 'tangsel', 'jalan', 'vaksin', 'rsu']",positif,1
+951,"['jatah', 'vaksin', 'gelombang', 'privilege', 'tanggung', 'alhamdulillah', 'sdh', 'jadwal']",positif,1
+952,"['ajar', 'konspirasi', 'industri', 'dunia', 'over', 'populasi', 'binatang', 'pelihara']",negatif,0
+953,"['dinkes', 'laku', 'mantap', 'laksana', 'vaksinasi']",positif,1
+954,"['mui', 'pasti', 'sinovac']",positif,1
+955,"['pemkab', 'gelar', 'rakor', 'siap', 'vaksinasi']",positif,1
+956,"['sinovac', 'bukti', 'sebar', 'hoax', 'kait', 'vaksin', 'dukung', 'program', 'vaksinasi']",positif,1
+957,"['ayo', 'vaksin', 'lawan']",positif,1
+958,"['dukung', 'program', 'vaksinasi', 'nasional', 'masyarakat', 'sehat', 'corona', 'ekonomi']",positif,1
+959,"['serah', 'terima', 'vaksin', 'covid', 'gudang', 'simpan', 'vaksinasi', 'gelar']",positif,1
+960,"['canang', 'vaksin', 'dosis', 'natuna']",positif,1
+961,"['vaksinasi', 'henti', 'rantai', 'sebar']",positif,1
+962,"['vaksinasi', 'minggu', 'beri', 'vaksin', 'corona', 'januari']",positif,1
+963,"['pimpin', 'aja', 'vaksinasi']",positif,1
+964,"['pasti', 'halal']",positif,1
+965,"['coba', 'cek', 'info']",positif,1
+966,"['dukung', 'program']",positif,1
+967,"['laksana', 'sunti', 'vaksin', 'covid', 'tenaga', 'sehat', 'mitra', 'lingkup', 'poliklinik', 'polres', 'magelang']",positif,1
+968,"['halo', 'sobat', 'kui', 'have', 'nice', 'day', 'lupa', 'terap', 'giat']",positif,1
+969,"['ragu', 'vaksinasi', 'disiplin', 'protokol', 'sehat', 'vaksin', 'mantul']",positif,1
+970,"['vaksinasi', 'perdana', 'natuna', 'anggota', 'dprd', 'eri', 'marka']",positif,1
+971,"['bikin', 'surat', 'sakti', 'pagi', 'pagi', '', 'dosis', 'ya']",positif,1
+972,"['bokap', 'nyokap', 'udah', 'vaksin', 'aman', 'blum', 'indikasi']",positif,1
+973,"['kapolres', 'tanjab', 'timur', 'terima', 'sunti', 'vaksinasi']",positif,1
+974,"['wagub', 'jabar', 'terima', 'vaksin', 'covid', 'dosis']",positif,1
+975,"['ariel', 'warga', 'fansnya', 'ikut', 'sunti', 'vaksinasi', 'jujur']",positif,1
+976,"['airlangga', 'hartarto', 'tegas', 'vaksin', 'covid', 'mandiri', 'gratis', 'larang', 'potong', 'gaji', 'pegawai']",positif,1
+977,"['vaksin', 'sakit', 'tidak', 'sunti', 'percaya', 'fungsi', 'vaksin']",positif,1
+978,"['bijak', 'merespon', 'informasi', 'sukses', 'vaksinasi', 'nasional']",o,1
+979,"['kapolres', 'paser', 'forkopimda', 'kab', 'paser', 'vaksin']",op,1
+980,"['herman', 'target', 'laksana', 'vaksinasi', 'bandarlampung', 'rampung']",positif,1
+981,"['mugi', 'paring']",op,1
+982,"['perintah', 'china', 'sedia', 'kuat', 'kerjasama', 'negara', 'bolivia', 'kait', 'vaksin', 'covid']",positif,1
+983,"['perintah', 'china', 'keluar', 'pedoman', 'distribusi', 'obat', 'pusat', 'upaya', 'praktik', 'atur', 'lembaga']",positif,1
+984,"['vaksin', 'presiden', 'joko', 'widodo', 'coronavac', 'produksi']",positif,1
+985,"['perintah', 'yiwu', 'kota', 'provinsi', 'zhejiang', 'timur', 'luncur', 'kereta', 'barang']",positif,1
+986,"['jusuf', 'kalla', 'dukung', 'vaksinasi', 'mandiri', 'covid', 'wacana', 'menkes', 'artikel']",positif,1
+987,"['puji', 'tuhan', 'dr', 'berhsl', 'oleh', 'sunti', 'vaksin']",positif,1
+988,"['berhsl', 'oleh', 'sunti', 'vaksin']",positif,1
+989,"['zaki', 'iskandar', 'laku', 'vaksin', 'tahap', 'unsur', 'forkopimda', 'kabupaten']",positif,1
+990,"['vaksinasi', 'patuh', 'pakai', 'masker', 'jaga', 'jarak', 'hindar', 'kerumun']",positif,1
+991,"['bolivia', 'sambut', 'dosis', 'vaksin', 'sputnik', 'rusia', 'moga', 'lancar', 'vaksinasi']",positif,1
+992,"['mui', 'kabupaten', 'rembang', 'umat', 'islam', 'nyinyir', 'ngeyel', 'bangkang', 'program']",positif,1
+993,"['erksnews', 'erwan', 'klaim', 'sehat', 'vaksinasi']",positif,1
+994,"['menko', 'pmk', 'muhadjir', 'effendy', 'pasti', 'masyarakat', 'vaksinasi', 'vaksin', 'biofarma', 'moga', 'pandemi']",positif,1
+995,"['erksnews', 'bupati', 'sumedang', 'vaksin', 'sinovac', 'aman']",positif,1
+996,"['menteri', 'puji', 'laksana', 'vaksinasi', 'covid', 'jateng', 'ganjar', 'siap']",positif,1
+997,"['vaksinasi', 'covid', 'dosis', 'antibodi']",positif,1
+998,"['kenal', 'kebal', 'yuk', 'kenal']",positif,1
+999,"['kasih', 'jempol']",positif,1
+1000,"['sukses', 'program', 'vaksinasi', 'kapolres', 'orang', 'suntik']",positif,1
+1001,"['komitmen', 'perintah', 'vaksin', 'gratis']",positif,1
+1002,"['vaksinasi', 'bantu', 'kurang', 'sebar', 'virus', 'corona', 'lindung', 'orang', 'orang']",positif,1
+1003,"['vaksinasi', 'nasional', 'solusi', 'baik', 'tangan']",positif,1
+1004,"['ryan', 'kono', 'jalan', 'vaksinasi']",positif,1
+1005,"['vaksin', 'bantu', 'putus', 'sebar']",positif,1
+1006,"['presiden', 'jokowi', 'ri', 'tengah', 'dominasi', 'negara', 'maju', 'raih']",positif,1
+1007,"['vaksin', 'masyarakat', 'tengah']",positif,1
+1008,"['perintah', 'vaksin', 'buat', 'biofarma', 'vaksinasi', 'masyarakat']",positif,1
+1009,[],positif,1
+1010,"['indonesia', 'dominasi', 'negara', 'maju', 'raih', 'vaksin']",positif,1
+1011,"['mohon', 'dukung', 'program', 'bentuk', 'kebal', 'kelompok', 'kelompok']",positif,1
+1012,"['vaksin', 'tuju', 'mbentuk', 'kebal', 'tubuh']",positif,1
+1013,"['vaksin', 'merah']",positif,1
+1014,"['ayo', 'sukses', 'vaksinasi']",positif,1
+1015,"['ahirnya', 'jt', 'dosis', 'vaksin', 'covid', 'distribusi', 'seluruh']",positif,1
+1016,"['asik', 'deh', 'tustel', 'gaya', 'andal', '', 'vaksin', 'aman', 'halal', 'neh', 'salam', 'sehat', 'for', 'lupa']",positif,1
+1017,"['terap', 'vaksinasi', 'lawan']",positif,1
+1018,"['terap', 'dn', 'vaksinasi', 'tuk', 'ngalawan']",positif,1
+1019,"['terima', 'vaksin', 'perdana', 'kabupaten', 'malang', 'dedik', 'arema', 'fc', 'ngaku']",positif,1
+1020,"['terap', 'vaksinasi', 'sama']",positif,1
+1021,"['terap', 'dn', 'vaksinasi', 'utk', 'ngalawan']",positif,1
+1022,"['terap', 'vaksinasi', 'jajar']",positif,1
+1023,"['terap', 'vaksinasi', 'unt', 'mlwn']",positif,1
+1024,"['terap', 'vaksinasi', 'jelang', 'sama']",positif,1
+1025,"['fakta', 'vasksin']",positif,1
+1026,"['lawan', 'pandemi', 'singkir', 'ego', 'bahu', 'bahu']",positif,1
+1027,"['bersma', 'lawaaan', 'pandemi', 'singkir', 'ego', 'bahu', 'bahu', 'untk']",positif,1
+1028,"['kompetitor', 'pagebluk', 'singkir', 'ego', 'bantu', 'bantu']",positif,1
+1029,"['brsma', 'lawaaan', 'pandemi', 'singkir', 'ego', 'bahu', 'bahu', 'unt']",positif,1
+1030,"['serempak', 'oponen', 'hawar', 'singkir', 'ego', 'tolong', 'tolong', 'republik']",positif,1
+1031,"['bersma', 'lawaaan', 'pandemi', 'singkir', 'ego', 'bahu', 'bahu']",positif,1
+1032,"['bareng', 'oponen', 'epidemi', 'singkir', 'ego', 'republik']",positif,1
+1033,"['brsma', 'lwn', 'pandemi', 'singkir', 'ego', 'bahu', 'bahu', 'unt']",positif,1
+1034,"['bareng', 'saing', 'endemi', 'singkir', 'ego', 'tolong', 'tolong']",positif,1
+1035,"['brsama', 'lawaaan', 'pandemi', 'singkir', 'ego', 'bahu', 'bahu', 'unt']",positif,1
+1036,"['gandeng', 'seteru', 'hawar', 'singkir', 'ego', 'republik']",positif,1
+1037,"['brsama', 'lwn', 'pandemi', 'singkir', 'ego', 'bahu', 'bahu']",positif,1
+1038,"['patungan', 'musuh', 'endemi', 'singkir', 'ego', 'bantu', 'bantu', 'jelang', 'republik']",positif,1
+1039,"['vaksin', 'vaksin', 'moga', 'lindung', 'tubuh']",positif,1
+1040,"['vaksin', 'aman', 'halal', 'bentuk', 'ikhtiar', 'lawan']",positif,1
+1041,"['vaksinasi', 'usaha', 'cegah', 'covid', 'mari', 'program']",positif,1
+1042,"['vaksin', 'indonesia', 'harap', 'pulih']",positif,1
+1043,"['mari', 'peduli', 'lingkung', 'ortu', 'program']",positif,1
+1044,"['buat', 'vaksin', 'butuh', 'teliti', 'usaha', 'keras', 'penggunaanya']",positif,1
+1045,"['indonesia', 'covid', 'hancur', 'dunia', 'mari', 'lawan']",positif,1
+1046,"['covid', 'hilang', 'ekonomi', 'tumbuh', 'program', 'vaksinasi', 'anti']",positif,1
+1047,"['covid', 'atas', 'ekonomi', 'maju', 'mari', 'sukses', 'program', 'vaksin', 'lawan']",positif,1
+1048,"['indonesia', 'bangkit', 'vaksin', 'lawan']",positif,1
+1049,"['mari', 'vaksinasi', 'indonesia']",positif,1
+1050,"['indonesia', 'bebas', 'corona']",positif,1
+1051,"['vaksin', 'langkah', 'baik', 'samping', 'social', 'distance', 'lawan']",positif,1
+1052,"['stop', 'covid']",positif,1
+1053,"['vaksin', 'tambah', 'protokol', 'sehat', 'langkah', 'baik', 'lawan']",positif,1
+1054,"['indonesia', 'pulih']",positif,1
+1055,"['apatis', 'vaksinasi', 'salah', 'peduli', 'orang']",positif,1
+1056,"['vaksin', 'program', 'tuju', 'lawan', 'covid', 'mari', 'dukung']",positif,1
+1057,"['mari', 'bantu', 'lingkung']",positif,1
+1058,"['vaksinasi', 'aman', 'anak', 'anak']",positif,1
+1059,"['vaksin', 'tubuh', 'milik', 'daya', 'tahan']",positif,1
+1060,"['menkes', 'target', 'vaksinasi', 'tenaga', 'sehat', 'selesai']",positif,1
+1061,"['cjh', 'mojokerto']",positif,1
+1062,"['ribu', 'nakes', 'indonesia', 'vaksin']",positif,1
+1063,['lawan'],positif,1
+1064,"['vaksin', 'covid', 'bentuk', 'imun', 'cegah', 'tular', 'harap']",positif,1
+1065,"['kadin', 'target', 'vaksinasi', 'juta', 'kerja', 'info', 'lengkap']",positif,1
+1066,"['vaksinasi', 'mandiri', 'datang', 'investasi', 'asing', 'info', 'lengkap']",positif,1
+1067,"['dandim', 'ajak', 'warga', 'sumedang', 'berani', 'vaksin']",positif,1
+1068,"['vaksin', 'novavax', 'klaim', 'manjur', 'cegah']",positif,1
+1069,"['menkes', 'budi', 'gunadi', 'sadikin', 'vaksinasi', 'covid', 'masyarakat', 'target']",positif,1
+1070,"['hallo', 'kawan', 'kawan', 'kabar', 'nih', 'vaksinasi', 'indonesia', 'lohuntuk', 'periode']",positif,1
+1071,"['syukur', 'vaksinasi', 'tahap', 'jalan']",positif,1
+1072,"['persada', 'hospital', 'laksana', 'vaksinasi', 'indonesia']",positif,1
+1073,"['perintah', 'oleh', 'ratus', 'juta', 'vaksin', 'rakyat']",positif,1
+1074,"['ubah', 'perilaku']",positif,1
+1075,"['vaksin', 'sinovac', 'aman', 'efektif', 'gratis', 'halal', 'ayo', 'vaksin']",positif,1
+1076,"['program', 'vaksinasi', 'indonesia', 'potensi', 'momentum', 'pulih']",positif,1
+1077,"['hadir', 'peran', 'elemen', 'masyarakat', 'tokoh', 'tokoh', 'masyarakat', 'tokoh', 'agama', 'tokoh', 'adat', 'tokoh', 'pemuda']",positif,1
+1078,"['vaksinasi', 'tahap', 'tenaga', 'sehat', 'laksana', 'kabupaten', 'kota', 'jawa']",positif,1
+1079,"['waspada', 'hoaks', 'vaksin', 'covid', 'lancar', 'program', 'vaksinasi']",positif,1
+1080,"['pemda', 'program', 'vaksinasi', 'sukses', 'guyur']",positif,1
+1081,"['panglima', 'tni', 'hadir', 'vaksin', 'harap', 'pandemi']",positif,1
+1082,"['vaksin', 'covid', 'kurang', 'transmisi', 'virus']",positif,1
+1083,"['mui', 'sertifikasi', 'halal', 'vaksin', 'virus', 'corona']",op,1
+1084,"['dukung', 'program', 'perintah', 'laksana', 'vaksinasi', 'covid']",positif,1
+1085,"['hasil', 'evaluasi', 'vaksin', 'sinovac']",positif,1
+1086,"['bijak', 'ppkm']",positif,1
+1087,"['dukung', 'vaksinasi']",positif,1
+1088,"['vaksinasi', 'covid', 'gelar', 'massal', 'kota', 'dki']",positif,1
+1089,"['masyarakat', 'sukses', 'program', 'vaksinasi']",positif,1
+1090,"['kerjasama', 'ulama', 'butuh', 'sebar', 'dawkah']",positif,1
+1091,"['vaksinansi', 'aman', 'halal', 'tubuh', 'manusia', 'takut']",positif,1
+1092,"['tengah', 'pandemi', 'vaksid', 'harus']",positif,1
+1093,"['lawan', 'covid', 'sambut', 'ingat', 'peristiwa', 'merah', 'putih', 'sangasanga', 'bhabinkamtibmas', 'polsek', 'sangasanga']",positif,1
+1094,"['cerita', 'mujito', 'terima', 'vaksin', 'kota', 'jambi', 'lapar', 'pegal', 'sunti']",positif,1
+1095,"['vaksin', 'sehat']",positif,1
+1096,"['vaksin', 'lindung', 'tubuh', 'lawan', 'virus']",positif,1
+1097,"['mari', 'tangkal', 'covid']",positif,1
+1098,"['vaksin', 'harap', 'prokes', 'mari', 'lawan']",positif,1
+1099,"['patah', 'semangat', 'tahan', 'prokes', 'program', 'vaksin', 'upaya', 'lawan']",positif,1
+1100,"['mari', 'sukses', 'program', 'vaksin', 'indonesia']",positif,1
+1101,"['mari', 'tanam', 'peduli', 'lingkung', 'ikut', 'program', 'vaksin']",positif,1
+1102,"['gandeng', 'kemenkes', 'bpom', 'pemprov', 'jabar', 'kuat', 'distribusi', 'vaksin']",positif,1
+1103,"['kepala', 'daerah', 'peran', 'sukses', 'program', 'vaksinasi']",positif,1
+1104,"['vaksin', 'salah', 'harap', 'pulih']",positif,1
+1105,"['israel', 'sumbang', 'ribu', 'dosis', 'vaksin', 'covid', 'otoritas']",positif,1
+1106,"['masker', 'milyarjaga', 'jarak', 'cuci', 'tangan', 'hindar', 'kerumun', '', 'pandemi']",positif,1
+1107,"['alhamdulillah', 'jerman', 'terap', 'lockdown', 'tekan', 'sebar']",positif,1
+1108,"['terap', 'protokol']",positif,1
+1109,['vaksin'],positif,1
+1110,"['kabar', 'benar', 'juru', 'bicara', 'cepat', 'tangan', 'covid', 'kota']",positif,1
+1111,"['tenang', 'mitranovasi', 'vaksin', 'dapat', 'titan', 'jadi']",positif,1
+1112,"['vaksinasi', 'upaya', 'perintah', 'atas', 'pandemi']",positif,1
+1113,['vaksinasi'],positif,1
+1114,"['mari', 'kunjung', '']",positif,1
+1115,"['upaya', 'tingkat', 'sedia', 'bahan', 'baku', 'biodiesel', 'perintah', 'kerjasama']",positif,1
+1116,"['tuju', 'perintah', 'informasi', 'edukasi', 'vaksinasi', 'covid']",positif,1
+1117,"['sarap', 'vaksin', 'sore']",positif,1
+1118,"['ya', 'terima', 'vaksinasi', 'covid', 'wajib', 'pakai', 'masker']",positif,1
+1119,"['indonesia', 'terima', 'konfirmasi', 'indikasi', 'alokasi', 'tahap', 'vaksin', 'covid', 'multilateral', 'artikel']",positif,1
+1120,"['dukung', 'masyarakat', 'program', 'vaksinasi']",positif,1
+1121,"['ayo', 'dukung', 'program', 'vaksinasi', 'nasional', 'indonesia', 'sehat', 'aman']",positif,1
+1122,"['vaksin', 'sedia', 'protokol', 'sehat', 'jalan']",positif,1
+1123,"['vaksin', 'wali', 'kota', 'tara', 'dr', 'khairul', 'vaksinasi', 'covid', 'wartawan', 'periode']",positif,1
+1124,"['jelas', 'vaksin', 'covid', 'sinovac', 'sunti']",positif,1
+1125,"['pemkab', 'terima', 'dosis', 'vaksin', 'covid', 'tahap']",positif,1
+1126,"['bpom', 'pasti', 'lapor', 'vaksin', 'covid', 'rusak']",positif,1
+1127,"['nu', 'ajak', 'komponen', 'bangsa', 'dukung', 'langkah', 'langkah', 'perintah', 'atas', 'pandemi']",positif,1
+1128,"['vaksinasi', 'tenaga', 'sehat', 'surabaya']",positif,1
+1129,"['ri', 'terima', 'juta', 'dosis', 'vaksin']",positif,1
+1130,"['mari', 'peduli', 'program', 'vaksin', 'keluarga']",positif,1
+1131,"['vaksin', 'gak', 'sakit', 'bikin', 'tubuh', 'kuat', 'hadap']",positif,1
+1132,"['mari', 'sukses', 'program', 'vaksinasi', 'indonesia']",positif,1
+1133,"['indonesia', 'bebas', 'corona', 'patuh', 'protokol', 'program']",positif,1
+1134,"['vaksin', 'baik']",positif,1
+1135,"['percaya', 'teori', 'konspirasi', 'vaksin', 'lindung']",positif,1
+1136,"['covid', 'hilang', 'senang', 'ekonomi', 'bangkit']",positif,1
+1137,"['mari', 'sukses', 'program', 'vaksin', 'anti']",positif,1
+1138,"['ampuh', 'lindung', 'orang', 'dekat', 'terap', 'protokol', 'sehat', 'ketat']",positif,1
+1139,"['ayokkkkkbersama', 'indonesia', 'sehat']",positif,1
+1140,"['maret', 'tenaga', 'layan', 'publik', 'vaksinasi']",positif,1
+1141,"['pasca', 'nakes', 'tuntas', 'vaksinasi', 'malang', 'sasar', 'tugas', 'layan']",positif,1
+1142,"['indonesia', 'dapat', 'vaksin', 'astrazeneca', 'juta', 'dosis', 'kirim', 'tahap', 'wuih']",positif,1
+1143,"['perintah', 'kabupaten', 'pemkab', 'lampung', 'utara', 'lampura', 'laksana', 'vaksin', 'perdana', 'covid']",positif,1
+1144,"['ketua', 'mui', 'cianjur', 'dukung']",positif,1
+1145,"['vaksinasi', 'nakes', 'kota', 'batu', 'dekat']",positif,1
+1146,"['vaksinasi', 'nakes', 'bungursari', 'lancar', 'camat', 'ikhtiar', 'putus', 'sebar']",positif,1
+1147,[],negatif,0
+1148,"['vaksin', 'konspirasi', 'elite']",negatif,0
+1149,"['takut', 'jarum', 'suntik', 'gamau']",negatif,0
+1150,"['vaksin', 'saudara', 'saudara', 'akal', 'akal', 'elite']",negatif,0
+1151,"['vaksin', 'gajelas']",negatif,0
+1152,"['gamau', 'vaksin', 'ah', 'main']",negatif,0
+1153,"['vaksin', 'ga', 'mending']",negatif,0
+1154,"['vaksin', 'gaes', 'mending']",negatif,0
+1155,"['gratis', 'gamau']",negatif,0
+1156,"['vaksin', 'bisnis', 'elite']",negatif,0
+1157,"['tolak', 'vaksin', 'sehat', 'sehat']",negatif,0
+1158,['vaksin'],negatif,0
+1159,"['vaksin', 'konspirasi', 'elite', 'global']",negatif,0
+1160,"['takut', 'jarum', 'suntik', 'gamau', 'vaksin', 'ogah']",negatif,0
+1161,"['vaksin', 'saudara', 'saudara', 'akal', 'akal', 'elite', 'global', 'mending']",negatif,0
+1162,"['vaksin', 'gajelas', 'usul', 'olahraga']",negatif,0
+1163,"['gamau', 'vaksin', 'ah', 'main', 'bisnis', 'mending', 'aktivitas']",negatif,0
+1164,"['vaksin', 'ga', 'gw', 'gamau']",negatif,0
+1165,"['vaksin', 'gaes', 'mending', 'tidur']",negatif,0
+1166,"['suntik', 'vaksinchina', 'ad', 'si']",negatif,0
+1167,"['info', 'boker', 'pagi', 'tani', 'kopi', 'hitam', 'buat', 'que', 'berita', 'wajib', 'vaksin', 'hasrat', 'boker', 'ku']",negatif,0
+1168,"['heran', 'pakai', 'sinovac', 'mahal', 'iya', 'akurasi', 'rendah', 'iya', 'uji', 'selesai', 'iya']",negatif,0
+1169,"['nih', 'denger', 'tolakdivaksinsinovac']",negatif,0
+1170,"['abis', 'baca', 'thread', 'vaksin', 'sinovac', 'dr', 'efikasi', 'efek', 'kayak', 'hasil', 'aja', 'vaksin']",negatif,0
+1171,"['jelang', 'vaksin', 'keinget', 'jaman', 'sekolah', 'lari', 'suntik', 'tpi', 'mgkin', 'lari', 'takut', 'efek']",negatif,0
+1172,"['alas', 'ribka', 'tolak', 'pt', 'bio', 'farma', 'uji', 'klinis', 'tahap', 'ketigavaksin']",negatif,0
+1173,"['ribka', 'pdip', 'ogah', 'suntik', 'vaksin', 'paksa', 'langgar', 'ham', 'vaksin', 'vaksinasi']",negatif,0
+1174,"['kalo', 'bagus', 'kasih']",negatif,0
+1175,"['gamau', 'vaksin', 'penjara', 'dasar', 'atur', 'sampe', 'badan', 'orang']",negatif,0
+1176,"['masa', 'mana', 'manusia', 'rasa', 'galau', 'hewan', 'ternak', 'unggas']",negatif,0
+1177,"['gak', 'vaksin', 'denda', 'duit', 'kudunye', 'balik', 'vaksin', 'kasih']",negatif,0
+1178,"['vaksin', 'bisnis', 'solusi', 'pandemi', 'suaraislamid', 'vaksin', 'bisnis']",negatif,0
+1179,"['tolak', 'ikut', 'jokowi', 'suntik', 'vaksin', 'ribka', 'pdip', 'mending', 'gue', 'bayar', 'denda']",negatif,0
+1180,"['negara', 'bisnis', 'rakyat']",negatif,0
+1181,"['kasi', 'narapidana', 'cape', 'cape', 'kriminal', 'nolak', 'vaksin', 'doang', 'syarat', 'masuk', 'penjara']",negatif,0
+1182,"['lucu', 'nih', 'cebong', 'senang', 'kadrun', 'anti', 'vaksin', 'punah', 'jd', 'bebas']",negatif,0
+1183,"['ribka', 'tjiptaning', 'tolak', 'suntik', 'vaksin', 'pilih', 'bayar', 'denda', 'news']",negatif,0
+1184,"['negara', 'bisnis', 'rakyat', 'ribka', 'tjiptaning', 'anggota', 'dpr', 'ri', 'fraksi', 'pdi']",negatif,0
+1185,"['serius', 'nanya', 'vaksin', 'ngaruh', 'gak', 'sih']",negatif,0
+1186,"['gak', 'percaya', 'kalo', 'percaya', 'gak', 'percaya', 'kalo', 'percaya', 'gak']",negatif,0
+1187,"['vaksin', 'bisnis']",negatif,0
+1188,"['inget', 'langsng', 'mudah', 'percaya', 'sunti', 'kepala', 'negara', 'bener', 'vaksin']",negatif,0
+1189,"['bikin', 'bingung', 'deh', 'ah', 'perkara', 'vaksin']",negatif,0
+1190,"['tuhh', 'mba', 'ning', 'nolak']",negatif,0
+1191,"['akurasi', 'utk', 'tonton']",negatif,0
+1192,"['kadrun', 'bangkit', 'dr', 'kubur', 'kadrun', 'sumber']",negatif,0
+1193,"['tolak', 'vaksin', 'anggota', 'dpr', 'ribka', 'tjiptaning', 'langgar', 'ham', 'gak']",negatif,0
+1194,"['halahh', 'ngapain', 'pake', 'live', 'ttp', 'aja', 'yg', 'masyarakat', 'beda', 'kualitas', 'ama', 'yg']",negatif,0
+1195,"['nya', 'tolak', 'vaksin', 'ni', 'buk', 'yg', 'hormat', 'gue', 'fobia', 'jarum', 'suntik', 'anjeeeng', 'gak', 'gue']",negatif,0
+1196,"['legislator', 'pks', 'kecam', 'perintah', 'ancam', 'masyarakat', 'tolak']",negatif,0
+1197,"['jual', 'vaksin', 'aja', 'kali']",negatif,0
+1198,"['vaksin', 'nya', 'bentuk', 'tablet', 'bubur', 'gak', 'sahabat', 'jarum', 'suntik']",negatif,0
+1199,"['gw', 'bkn', 'gamau', 'vaksin', 'gw', 'gamau', 'suntik', 'doang', 'anjing', 'kalo', 'yg', 'kapsul', 'aja']",negatif,0
+1200,"['indonesia', 'takut', 'vaksin', 'gatakut', 'minum']",negatif,0
+1201,"['denda', 'jt', 'paksa', 'bayar']",negatif,0
+1202,"['tolak', 'suntik', 'vaksin']",negatif,0
+1203,"['henti', 'vaksinasi', 'efek', 'samping', 'serius', 'the', 'post', 'henti']",negatif,0
+1204,['bisnis'],negatif,0
+1205,"['who', 'tolak', 'vaksinasi', 'syarat', 'pergi']",negatif,0
+1206,"['ribka', 'tjiptaning', 'vaksin', 'sinovac', 'barang', 'rongsok', 'respons']",negatif,0
+1207,"['vaksin', 'mending', 'pikir', 'minimal', 'mikir', 'deh', 'dr', 'pd', 'timbul', 'korban', 'jiwa', 'yg', 'gk', 'tau', 'liput', 'media']",negatif,0
+1208,"['apakabar', 'dunia', 'penuh', 'tipu']",negatif,0
+1209,"['vaksin', 'percaya', 'yg', 'ni', 'percaya', 'wujud', '', 'minat']",negatif,0
+1210,"['sars', 'hiv', 'sakit', 'tular', 'yg', 'keri', 'covid', 'berita', 'keri', 'covid']",negatif,0
+1211,"['klo', 'mah', 'sya', 'ndk']",negatif,0
+1212,"['korang', 'caya', 'kenal', 'jho', 'low', 'korang']",negatif,0
+1213,"['buka', 'ragu', 'vaksin', 'made', 'in', 'cina', 'ya', 'takut', 'aja', 'vaksin', 'sicnovac', 'nya', 'hasil', 'ntar']",negatif,0
+1214,[],negatif,0
+1215,"['vaksinasi', 'vaksin', 'nggo']",negatif,0
+1216,"['viral', 'awat', 'takut', 'jarum', 'suntik', 'vaksin']",negatif,0
+1217,"['vaksin', 'karna', 'karna', 'alumni']",negatif,0
+1218,"['ajar', 'konspirasi', 'industri', 'dunia', 'over', 'populasi', 'binatang', 'pelihara']",negatif,0
+1219,[],negatif,0
+1220,"['vaksin', 'konspirasi', 'elite']",negatif,0
+1221,"['takut', 'jarum', 'suntik', 'gamau']",negatif,0
+1222,"['vaksin', 'saudara', 'saudara', 'akal', 'akal', 'elite']",negatif,0
+1223,"['vaksin', 'gajelas']",negatif,0
+1224,"['gamau', 'vaksin', 'ah', 'main']",negatif,0
+1225,"['vaksin', 'ga', 'mending']",negatif,0
+1226,"['vaksin', 'gaes', 'mending']",negatif,0
+1227,"['gratis', 'gamau']",negatif,0
+1228,"['vaksin', 'bisnis', 'elite']",negatif,0
+1229,"['tolak', 'vaksin', 'sehat', 'sehat']",negatif,0
+1230,['vaksin'],negatif,0
+1231,"['vaksin', 'konspirasi', 'elite', 'global']",negatif,0
+1232,"['takut', 'jarum', 'suntik', 'gamau', 'vaksin', 'ogah']",negatif,0
+1233,"['vaksin', 'saudara', 'saudara', 'akal', 'akal', 'elite', 'global', 'mending']",negatif,0
+1234,"['vaksin', 'gajelas', 'usul', 'olahraga']",negatif,0
+1235,"['gamau', 'vaksin', 'ah', 'main', 'bisnis', 'mending', 'aktivitas']",negatif,0
+1236,"['vaksin', 'ga', 'gw', 'gamau']",negatif,0
+1237,"['vaksin', 'gaes', 'mending', 'tidur']",negatif,0
+1238,"['suntik', 'vaksinchina', 'ad', 'si']",negatif,0
+1239,"['info', 'boker', 'pagi', 'tani', 'kopi', 'hitam', 'buat', 'que', 'berita', 'wajib', 'vaksin', 'hasrat', 'boker', 'ku']",negatif,0
+1240,"['heran', 'pakai', 'sinovac', 'mahal', 'iya', 'akurasi', 'rendah', 'iya', 'uji', 'selesai', 'iya']",negatif,0
+1241,"['nih', 'denger', 'tolakdivaksinsinovac']",negatif,0
+1242,"['abis', 'baca', 'thread', 'vaksin', 'sinovac', 'dr', 'efikasi', 'efek', 'kayak', 'hasil', 'aja', 'vaksin']",negatif,0
+1243,"['jelang', 'vaksin', 'keinget', 'jaman', 'sekolah', 'lari', 'suntik', 'tpi', 'mgkin', 'lari', 'takut', 'efek']",negatif,0
+1244,"['alas', 'ribka', 'tolak', 'pt', 'bio', 'farma', 'uji', 'klinis', 'tahap', 'ketigavaksin']",negatif,0
+1245,"['ribka', 'pdip', 'ogah', 'suntik', 'vaksin', 'paksa', 'langgar', 'ham', 'vaksin', 'vaksinasi']",negatif,0
+1246,"['kalo', 'bagus', 'kasih']",negatif,0
+1247,"['gamau', 'vaksin', 'penjara', 'dasar', 'atur', 'sampe', 'badan', 'orang']",negatif,0
+1248,"['masa', 'mana', 'manusia', 'rasa', 'galau', 'hewan', 'ternak', 'unggas']",negatif,0
+1249,"['gak', 'vaksin', 'denda', 'duit', 'kudunye', 'balik', 'vaksin', 'kasih']",negatif,0
+1250,"['vaksin', 'bisnis', 'solusi', 'pandemi', 'suaraislamid', 'vaksin', 'bisnis']",negatif,0
+1251,"['tolak', 'ikut', 'jokowi', 'suntik', 'vaksin', 'ribka', 'pdip', 'mending', 'gue', 'bayar', 'denda']",negatif,0
+1252,"['negara', 'bisnis', 'rakyat']",negatif,0
+1253,"['kasi', 'narapidana', 'cape', 'cape', 'kriminal', 'nolak', 'vaksin', 'doang', 'syarat', 'masuk', 'penjara']",negatif,0
+1254,"['lucu', 'nih', 'cebong', 'senang', 'kadrun', 'anti', 'vaksin', 'punah', 'jd', 'bebas']",negatif,0
+1255,"['ribka', 'tjiptaning', 'tolak', 'suntik', 'vaksin', 'pilih', 'bayar', 'denda', 'news']",negatif,0
+1256,"['negara', 'bisnis', 'rakyat', 'ribka', 'tjiptaning', 'anggota', 'dpr', 'ri', 'fraksi', 'pdi']",negatif,0
+1257,"['serius', 'nanya', 'vaksin', 'ngaruh', 'gak', 'sih']",negatif,0
+1258,"['gak', 'percaya', 'kalo', 'percaya', 'gak', 'percaya', 'kalo', 'percaya', 'gak']",negatif,0
+1259,"['vaksin', 'bisnis']",negatif,0
+1260,"['inget', 'langsng', 'mudah', 'percaya', 'sunti', 'kepala', 'negara', 'bener', 'vaksin']",negatif,0
+1261,"['bikin', 'bingung', 'deh', 'ah', 'perkara', 'vaksin']",negatif,0
+1262,"['tuhh', 'mba', 'ning', 'nolak']",negatif,0
+1263,"['akurasi', 'utk', 'tonton']",negatif,0
+1264,"['kadrun', 'bangkit', 'dr', 'kubur', 'kadrun', 'sumber']",negatif,0
+1265,"['tolak', 'vaksin', 'anggota', 'dpr', 'ribka', 'tjiptaning', 'langgar', 'ham', 'gak']",negatif,0
+1266,"['halahh', 'ngapain', 'pake', 'live', 'ttp', 'aja', 'yg', 'masyarakat', 'beda', 'kualitas', 'ama', 'yg']",negatif,0
+1267,"['nya', 'tolak', 'vaksin', 'ni', 'buk', 'yg', 'hormat', 'gue', 'fobia', 'jarum', 'suntik', 'anjeeeng', 'gak', 'gue']",negatif,0
+1268,"['legislator', 'pks', 'kecam', 'perintah', 'ancam', 'masyarakat', 'tolak']",negatif,0
+1269,"['jual', 'vaksin', 'aja', 'kali']",negatif,0
+1270,"['vaksin', 'nya', 'bentuk', 'tablet', 'bubur', 'gak', 'sahabat', 'jarum', 'suntik']",negatif,0
+1271,"['gw', 'bkn', 'gamau', 'vaksin', 'gw', 'gamau', 'suntik', 'doang', 'anjing', 'kalo', 'yg', 'kapsul', 'aja']",negatif,0
+1272,"['indonesia', 'takut', 'vaksin', 'gatakut', 'minum']",negatif,0
+1273,"['denda', 'jt', 'paksa', 'bayar']",negatif,0
+1274,"['tolak', 'suntik', 'vaksin']",negatif,0
+1275,"['henti', 'vaksinasi', 'efek', 'samping', 'serius', 'the', 'post', 'henti']",negatif,0
+1276,['bisnis'],negatif,0
+1277,"['who', 'tolak', 'vaksinasi', 'syarat', 'pergi']",negatif,0
+1278,"['ribka', 'tjiptaning', 'vaksin', 'sinovac', 'barang', 'rongsok', 'respons']",negatif,0
+1279,"['vaksin', 'mending', 'pikir', 'minimal', 'mikir', 'deh', 'dr', 'pd', 'timbul', 'korban', 'jiwa', 'yg', 'gk', 'tau', 'liput', 'media']",negatif,0
+1280,"['apakabar', 'dunia', 'penuh', 'tipu']",negatif,0
+1281,"['vaksin', 'percaya', 'yg', 'ni', 'percaya', 'wujud', '', 'minat']",negatif,0
+1282,"['sars', 'hiv', 'sakit', 'tular', 'yg', 'keri', 'covid', 'berita', 'keri', 'covid']",negatif,0
+1283,"['klo', 'mah', 'sya', 'ndk']",negatif,0
+1284,"['korang', 'caya', 'kenal', 'jho', 'low', 'korang']",negatif,0
+1285,"['buka', 'ragu', 'vaksin', 'made', 'in', 'cina', 'ya', 'takut', 'aja', 'vaksin', 'sicnovac', 'nya', 'hasil', 'ntar']",negatif,0
+1286,[],negatif,0
+1287,"['vaksinasi', 'vaksin', 'nggo']",negatif,0
+1288,"['viral', 'awat', 'takut', 'jarum', 'suntik', 'vaksin']",negatif,0
+1289,"['vaksin', 'karna', 'karna', 'alumni']",negatif,0
+1290,"['ajar', 'konspirasi', 'industri', 'dunia', 'over', 'populasi', 'binatang', 'pelihara']",negatif,0
+1291,[],negatif,0
+1292,"['vaksin', 'konspirasi', 'elite']",negatif,0
+1293,"['takut', 'jarum', 'suntik', 'gamau']",negatif,0
+1294,"['vaksin', 'saudara', 'saudara', 'akal', 'akal', 'elite']",negatif,0
+1295,"['vaksin', 'gajelas']",negatif,0
+1296,"['gamau', 'vaksin', 'ah', 'main']",negatif,0
+1297,"['vaksin', 'ga', 'mending']",negatif,0
+1298,"['vaksin', 'gaes', 'mending']",negatif,0
+1299,"['gratis', 'gamau']",negatif,0
+1300,"['vaksin', 'bisnis', 'elite']",negatif,0
+1301,"['tolak', 'vaksin', 'sehat', 'sehat']",negatif,0
+1302,['vaksin'],negatif,0
+1303,"['vaksin', 'konspirasi', 'elite', 'global']",negatif,0
+1304,"['takut', 'jarum', 'suntik', 'gamau', 'vaksin', 'ogah']",negatif,0
+1305,"['vaksin', 'saudara', 'saudara', 'akal', 'akal', 'elite', 'global', 'mending']",negatif,0
+1306,"['vaksin', 'gajelas', 'usul', 'olahraga']",negatif,0
+1307,"['gamau', 'vaksin', 'ah', 'main', 'bisnis', 'mending', 'aktivitas']",negatif,0
+1308,"['vaksin', 'ga', 'gw', 'gamau']",negatif,0
+1309,"['vaksin', 'gaes', 'mending', 'tidur']",negatif,0
+1310,"['suntik', 'vaksinchina', 'ad', 'si']",negatif,0
+1311,"['info', 'boker', 'pagi', 'tani', 'kopi', 'hitam', 'buat', 'que', 'berita', 'wajib', 'vaksin', 'hasrat', 'boker', 'ku']",negatif,0
+1312,"['heran', 'pakai', 'sinovac', 'mahal', 'iya', 'akurasi', 'rendah', 'iya', 'uji', 'selesai', 'iya']",negatif,0
+1313,"['nih', 'denger', 'tolakdivaksinsinovac']",negatif,0
+1314,"['abis', 'baca', 'thread', 'vaksin', 'sinovac', 'dr', 'efikasi', 'efek', 'kayak', 'hasil', 'aja', 'vaksin']",negatif,0
+1315,"['jelang', 'vaksin', 'keinget', 'jaman', 'sekolah', 'lari', 'suntik', 'tpi', 'mgkin', 'lari', 'takut', 'efek']",negatif,0
+1316,"['alas', 'ribka', 'tolak', 'pt', 'bio', 'farma', 'uji', 'klinis', 'tahap', 'ketigavaksin']",negatif,0
+1317,"['ribka', 'pdip', 'ogah', 'suntik', 'vaksin', 'paksa', 'langgar', 'ham', 'vaksin', 'vaksinasi']",negatif,0
+1318,"['kalo', 'bagus', 'kasih']",negatif,0
+1319,"['gamau', 'vaksin', 'penjara', 'dasar', 'atur', 'sampe', 'badan', 'orang']",negatif,0
+1320,"['masa', 'mana', 'manusia', 'rasa', 'galau', 'hewan', 'ternak', 'unggas']",negatif,0
+1321,"['gak', 'vaksin', 'denda', 'duit', 'kudunye', 'balik', 'vaksin', 'kasih']",negatif,0
+1322,"['vaksin', 'bisnis', 'solusi', 'pandemi', 'suaraislamid', 'vaksin', 'bisnis']",negatif,0
+1323,"['tolak', 'ikut', 'jokowi', 'suntik', 'vaksin', 'ribka', 'pdip', 'mending', 'gue', 'bayar', 'denda']",negatif,0
+1324,"['negara', 'bisnis', 'rakyat']",negatif,0
+1325,"['kasi', 'narapidana', 'cape', 'cape', 'kriminal', 'nolak', 'vaksin', 'doang', 'syarat', 'masuk', 'penjara']",negatif,0
+1326,"['lucu', 'nih', 'cebong', 'senang', 'kadrun', 'anti', 'vaksin', 'punah', 'jd', 'bebas']",negatif,0
+1327,"['ribka', 'tjiptaning', 'tolak', 'suntik', 'vaksin', 'pilih', 'bayar', 'denda', 'news']",negatif,0
+1328,"['negara', 'bisnis', 'rakyat', 'ribka', 'tjiptaning', 'anggota', 'dpr', 'ri', 'fraksi', 'pdi']",negatif,0
+1329,"['serius', 'nanya', 'vaksin', 'ngaruh', 'gak', 'sih']",negatif,0
+1330,"['gak', 'percaya', 'kalo', 'percaya', 'gak', 'percaya', 'kalo', 'percaya', 'gak']",negatif,0
+1331,"['vaksin', 'bisnis']",negatif,0
+1332,"['inget', 'langsng', 'mudah', 'percaya', 'sunti', 'kepala', 'negara', 'bener', 'vaksin']",negatif,0
+1333,"['bikin', 'bingung', 'deh', 'ah', 'perkara', 'vaksin']",negatif,0
+1334,"['tuhh', 'mba', 'ning', 'nolak']",negatif,0
+1335,"['akurasi', 'utk', 'tonton']",negatif,0
+1336,"['kadrun', 'bangkit', 'dr', 'kubur', 'kadrun', 'sumber']",negatif,0
+1337,"['tolak', 'vaksin', 'anggota', 'dpr', 'ribka', 'tjiptaning', 'langgar', 'ham', 'gak']",negatif,0
+1338,"['halahh', 'ngapain', 'pake', 'live', 'ttp', 'aja', 'yg', 'masyarakat', 'beda', 'kualitas', 'ama', 'yg']",negatif,0
+1339,"['nya', 'tolak', 'vaksin', 'ni', 'buk', 'yg', 'hormat', 'gue', 'fobia', 'jarum', 'suntik', 'anjeeeng', 'gak', 'gue']",negatif,0
+1340,"['legislator', 'pks', 'kecam', 'perintah', 'ancam', 'masyarakat', 'tolak']",negatif,0
+1341,"['jual', 'vaksin', 'aja', 'kali']",negatif,0
+1342,"['vaksin', 'nya', 'bentuk', 'tablet', 'bubur', 'gak', 'sahabat', 'jarum', 'suntik']",negatif,0
+1343,"['gw', 'bkn', 'gamau', 'vaksin', 'gw', 'gamau', 'suntik', 'doang', 'anjing', 'kalo', 'yg', 'kapsul', 'aja']",negatif,0
+1344,"['indonesia', 'takut', 'vaksin', 'gatakut', 'minum']",negatif,0
+1345,"['denda', 'jt', 'paksa', 'bayar']",negatif,0
+1346,"['tolak', 'suntik', 'vaksin']",negatif,0
+1347,"['henti', 'vaksinasi', 'efek', 'samping', 'serius', 'the', 'post', 'henti']",negatif,0
+1348,['bisnis'],negatif,0
+1349,"['who', 'tolak', 'vaksinasi', 'syarat', 'pergi']",negatif,0
+1350,"['ribka', 'tjiptaning', 'vaksin', 'sinovac', 'barang', 'rongsok', 'respons']",negatif,0
+1351,"['vaksin', 'mending', 'pikir', 'minimal', 'mikir', 'deh', 'dr', 'pd', 'timbul', 'korban', 'jiwa', 'yg', 'gk', 'tau', 'liput', 'media']",negatif,0
+1352,"['apakabar', 'dunia', 'penuh', 'tipu']",negatif,0
+1353,"['vaksin', 'percaya', 'yg', 'ni', 'percaya', 'wujud', '', 'minat']",negatif,0
+1354,"['sars', 'hiv', 'sakit', 'tular', 'yg', 'keri', 'covid', 'berita', 'keri', 'covid']",negatif,0
+1355,"['klo', 'mah', 'sya', 'ndk']",negatif,0
+1356,"['korang', 'caya', 'kenal', 'jho', 'low', 'korang']",negatif,0
+1357,"['buka', 'ragu', 'vaksin', 'made', 'in', 'cina', 'ya', 'takut', 'aja', 'vaksin', 'sicnovac', 'nya', 'hasil', 'ntar']",negatif,0
+1358,[],negatif,0
+1359,"['vaksinasi', 'vaksin', 'nggo']",negatif,0
+1360,"['viral', 'awat', 'takut', 'jarum', 'suntik', 'vaksin']",negatif,0
+1361,"['vaksin', 'karna', 'karna', 'alumni']",negatif,0
+1362,"['ajar', 'konspirasi', 'industri', 'dunia', 'over', 'populasi', 'binatang', 'pelihara']",negatif,0
+1363,[],negatif,0
+1364,"['vaksin', 'konspirasi', 'elite']",negatif,0
+1365,"['takut', 'jarum', 'suntik', 'gamau']",negatif,0
+1366,"['vaksin', 'saudara', 'saudara', 'akal', 'akal', 'elite']",negatif,0
+1367,"['vaksin', 'gajelas']",negatif,0
+1368,"['gamau', 'vaksin', 'ah', 'main']",negatif,0
+1369,"['vaksin', 'ga', 'mending']",negatif,0
+1370,"['vaksin', 'gaes', 'mending']",negatif,0
+1371,"['gratis', 'gamau']",negatif,0
+1372,"['vaksin', 'bisnis', 'elite']",negatif,0
+1373,"['tolak', 'vaksin', 'sehat', 'sehat']",negatif,0
+1374,['vaksin'],negatif,0
+1375,"['vaksin', 'konspirasi', 'elite', 'global']",negatif,0
+1376,"['takut', 'jarum', 'suntik', 'gamau', 'vaksin', 'ogah']",negatif,0
+1377,"['vaksin', 'saudara', 'saudara', 'akal', 'akal', 'elite', 'global', 'mending']",negatif,0
+1378,"['vaksin', 'gajelas', 'usul', 'olahraga']",negatif,0
+1379,"['gamau', 'vaksin', 'ah', 'main', 'bisnis', 'mending', 'aktivitas']",negatif,0
+1380,"['vaksin', 'ga', 'gw', 'gamau']",negatif,0
+1381,"['vaksin', 'gaes', 'mending', 'tidur']",negatif,0
+1382,"['suntik', 'vaksinchina', 'ad', 'si']",negatif,0
+1383,"['info', 'boker', 'pagi', 'tani', 'kopi', 'hitam', 'buat', 'que', 'berita', 'wajib', 'vaksin', 'hasrat', 'boker', 'ku']",negatif,0
+1384,"['heran', 'pakai', 'sinovac', 'mahal', 'iya', 'akurasi', 'rendah', 'iya', 'uji', 'selesai', 'iya']",negatif,0
+1385,"['nih', 'denger', 'tolakdivaksinsinovac']",negatif,0
+1386,"['abis', 'baca', 'thread', 'vaksin', 'sinovac', 'dr', 'efikasi', 'efek', 'kayak', 'hasil', 'aja', 'vaksin']",negatif,0
+1387,"['jelang', 'vaksin', 'keinget', 'jaman', 'sekolah', 'lari', 'suntik', 'tpi', 'mgkin', 'lari', 'takut', 'efek']",negatif,0
+1388,"['alas', 'ribka', 'tolak', 'pt', 'bio', 'farma', 'uji', 'klinis', 'tahap', 'ketigavaksin']",negatif,0
+1389,"['ribka', 'pdip', 'ogah', 'suntik', 'vaksin', 'paksa', 'langgar', 'ham', 'vaksin', 'vaksinasi']",negatif,0
+1390,"['kalo', 'bagus', 'kasih']",negatif,0
+1391,"['gamau', 'vaksin', 'penjara', 'dasar', 'atur', 'sampe', 'badan', 'orang']",negatif,0
+1392,"['masa', 'mana', 'manusia', 'rasa', 'galau', 'hewan', 'ternak', 'unggas']",negatif,0
+1393,"['gak', 'vaksin', 'denda', 'duit', 'kudunye', 'balik', 'vaksin', 'kasih']",negatif,0
+1394,"['vaksin', 'bisnis', 'solusi', 'pandemi', 'suaraislamid', 'vaksin', 'bisnis']",negatif,0
+1395,"['tolak', 'ikut', 'jokowi', 'suntik', 'vaksin', 'ribka', 'pdip', 'mending', 'gue', 'bayar', 'denda']",negatif,0
+1396,"['negara', 'bisnis', 'rakyat']",negatif,0
+1397,"['kasi', 'narapidana', 'cape', 'cape', 'kriminal', 'nolak', 'vaksin', 'doang', 'syarat', 'masuk', 'penjara']",negatif,0
+1398,"['lucu', 'nih', 'cebong', 'senang', 'kadrun', 'anti', 'vaksin', 'punah', 'jd', 'bebas']",negatif,0
+1399,"['ribka', 'tjiptaning', 'tolak', 'suntik', 'vaksin', 'pilih', 'bayar', 'denda', 'news']",negatif,0
+1400,"['negara', 'bisnis', 'rakyat', 'ribka', 'tjiptaning', 'anggota', 'dpr', 'ri', 'fraksi', 'pdi']",negatif,0
+1401,"['serius', 'nanya', 'vaksin', 'ngaruh', 'gak', 'sih']",negatif,0
+1402,"['gak', 'percaya', 'kalo', 'percaya', 'gak', 'percaya', 'kalo', 'percaya', 'gak']",negatif,0
+1403,"['vaksin', 'bisnis']",negatif,0
+1404,"['inget', 'langsng', 'mudah', 'percaya', 'sunti', 'kepala', 'negara', 'bener', 'vaksin']",negatif,0
+1405,"['bikin', 'bingung', 'deh', 'ah', 'perkara', 'vaksin']",negatif,0
+1406,"['tuhh', 'mba', 'ning', 'nolak']",negatif,0
+1407,"['akurasi', 'utk', 'tonton']",negatif,0
+1408,"['kadrun', 'bangkit', 'dr', 'kubur', 'kadrun', 'sumber']",negatif,0
+1409,"['tolak', 'vaksin', 'anggota', 'dpr', 'ribka', 'tjiptaning', 'langgar', 'ham', 'gak']",negatif,0
+1410,"['halahh', 'ngapain', 'pake', 'live', 'ttp', 'aja', 'yg', 'masyarakat', 'beda', 'kualitas', 'ama', 'yg']",negatif,0
+1411,"['nya', 'tolak', 'vaksin', 'ni', 'buk', 'yg', 'hormat', 'gue', 'fobia', 'jarum', 'suntik', 'anjeeeng', 'gak', 'gue']",negatif,0
+1412,"['legislator', 'pks', 'kecam', 'perintah', 'ancam', 'masyarakat', 'tolak']",negatif,0
+1413,"['jual', 'vaksin', 'aja', 'kali']",negatif,0
+1414,"['vaksin', 'nya', 'bentuk', 'tablet', 'bubur', 'gak', 'sahabat', 'jarum', 'suntik']",negatif,0
+1415,"['gw', 'bkn', 'gamau', 'vaksin', 'gw', 'gamau', 'suntik', 'doang', 'anjing', 'kalo', 'yg', 'kapsul', 'aja']",negatif,0
+1416,"['indonesia', 'takut', 'vaksin', 'gatakut', 'minum']",negatif,0
+1417,"['denda', 'jt', 'paksa', 'bayar']",negatif,0
+1418,"['tolak', 'suntik', 'vaksin']",negatif,0
+1419,"['henti', 'vaksinasi', 'efek', 'samping', 'serius', 'the', 'post', 'henti']",negatif,0
+1420,['bisnis'],negatif,0
+1421,"['who', 'tolak', 'vaksinasi', 'syarat', 'pergi']",negatif,0
+1422,"['ribka', 'tjiptaning', 'vaksin', 'sinovac', 'barang', 'rongsok', 'respons']",negatif,0
+1423,"['vaksin', 'mending', 'pikir', 'minimal', 'mikir', 'deh', 'dr', 'pd', 'timbul', 'korban', 'jiwa', 'yg', 'gk', 'tau', 'liput', 'media']",negatif,0
+1424,"['apakabar', 'dunia', 'penuh', 'tipu']",negatif,0
+1425,"['vaksin', 'percaya', 'yg', 'ni', 'percaya', 'wujud', '', 'minat']",negatif,0
+1426,"['sars', 'hiv', 'sakit', 'tular', 'yg', 'keri', 'covid', 'berita', 'keri', 'covid']",negatif,0
+1427,"['klo', 'mah', 'sya', 'ndk']",negatif,0
+1428,"['korang', 'caya', 'kenal', 'jho', 'low', 'korang']",negatif,0
+1429,"['buka', 'ragu', 'vaksin', 'made', 'in', 'cina', 'ya', 'takut', 'aja', 'vaksin', 'sicnovac', 'nya', 'hasil', 'ntar']",negatif,0
+1430,[],negatif,0
+1431,"['vaksinasi', 'vaksin', 'nggo']",negatif,0
+1432,"['viral', 'awat', 'takut', 'jarum', 'suntik', 'vaksin']",negatif,0
+1433,"['vaksin', 'karna', 'karna', 'alumni']",negatif,0
+1434,"['ajar', 'konspirasi', 'industri', 'dunia', 'over', 'populasi', 'binatang', 'pelihara']",negatif,0
+1435,[],negatif,0
+1436,"['vaksin', 'konspirasi', 'elite']",negatif,0
+1437,"['takut', 'jarum', 'suntik', 'gamau']",negatif,0
+1438,"['vaksin', 'saudara', 'saudara', 'akal', 'akal', 'elite']",negatif,0
+1439,"['vaksin', 'gajelas']",negatif,0
+1440,"['gamau', 'vaksin', 'ah', 'main']",negatif,0
+1441,"['vaksin', 'ga', 'mending']",negatif,0
+1442,"['vaksin', 'gaes', 'mending']",negatif,0
+1443,"['gratis', 'gamau']",negatif,0
+1444,"['vaksin', 'bisnis', 'elite']",negatif,0
+1445,"['tolak', 'vaksin', 'sehat', 'sehat']",negatif,0
+1446,['vaksin'],negatif,0
+1447,"['vaksin', 'konspirasi', 'elite', 'global']",negatif,0
+1448,"['takut', 'jarum', 'suntik', 'gamau', 'vaksin', 'ogah']",negatif,0
+1449,"['vaksin', 'saudara', 'saudara', 'akal', 'akal', 'elite', 'global', 'mending']",negatif,0
+1450,"['vaksin', 'gajelas', 'usul', 'olahraga']",negatif,0
+1451,"['gamau', 'vaksin', 'ah', 'main', 'bisnis', 'mending', 'aktivitas']",negatif,0
+1452,"['vaksin', 'ga', 'gw', 'gamau']",negatif,0
+1453,"['vaksin', 'gaes', 'mending', 'tidur']",negatif,0
